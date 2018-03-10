@@ -1,0 +1,3608 @@
+[
+  {
+    "date": 20130107,
+    "ranking": 41,
+    "player_id": 1,
+    "points": 1008
+  },
+  {
+    "date": 20130204,
+    "ranking": 40,
+    "player_id": 1,
+    "points": 973
+  },
+  {
+    "date": 20130304,
+    "ranking": 31,
+    "player_id": 1,
+    "points": 1137
+  },
+  {
+    "date": 20130401,
+    "ranking": 35,
+    "player_id": 1,
+    "points": 1112
+  },
+  {
+    "date": 20130506,
+    "ranking": 28,
+    "player_id": 1,
+    "points": 1272
+  },
+  {
+    "date": 20130610,
+    "ranking": 28,
+    "player_id": 1,
+    "points": 1400
+  },
+  {
+    "date": 20130708,
+    "ranking": 29,
+    "player_id": 1,
+    "points": 1330
+  },
+  {
+    "date": 20130805,
+    "ranking": 31,
+    "player_id": 1,
+    "points": 1315
+  },
+  {
+    "date": 20130909,
+    "ranking": 29,
+    "player_id": 1,
+    "points": 1375
+  },
+  {
+    "date": 20131007,
+    "ranking": 28,
+    "player_id": 1,
+    "points": 1375
+  },
+  {
+    "date": 20131104,
+    "ranking": 23,
+    "player_id": 1,
+    "points": 1520
+  },
+  {
+    "date": 20131202,
+    "ranking": 23,
+    "player_id": 1,
+    "points": 1520
+  },
+  {
+    "date": 20140106,
+    "ranking": 23,
+    "player_id": 1,
+    "points": 1460
+  },
+  {
+    "date": 20140203,
+    "ranking": 19,
+    "player_id": 1,
+    "points": 1810
+  },
+  {
+    "date": 20140303,
+    "ranking": 16,
+    "player_id": 1,
+    "points": 2130
+  },
+  {
+    "date": 20140407,
+    "ranking": 15,
+    "player_id": 1,
+    "points": 2130
+  },
+  {
+    "date": 20140505,
+    "ranking": 14,
+    "player_id": 1,
+    "points": 2200
+  },
+  {
+    "date": 20140609,
+    "ranking": 13,
+    "player_id": 1,
+    "points": 2435
+  },
+  {
+    "date": 20140707,
+    "ranking": 9,
+    "player_id": 1,
+    "points": 3270
+  },
+  {
+    "date": 20140804,
+    "ranking": 8,
+    "player_id": 1,
+    "points": 3270
+  },
+  {
+    "date": 20140908,
+    "ranking": 10,
+    "player_id": 1,
+    "points": 3710
+  },
+  {
+    "date": 20141006,
+    "ranking": 10,
+    "player_id": 1,
+    "points": 3710
+  },
+  {
+    "date": 20141103,
+    "ranking": 11,
+    "player_id": 1,
+    "points": 3645
+  },
+  {
+    "date": 20141201,
+    "ranking": 11,
+    "player_id": 1,
+    "points": 3645
+  },
+  {
+    "date": 20150105,
+    "ranking": 11,
+    "player_id": 1,
+    "points": 3645
+  },
+  {
+    "date": 20150202,
+    "ranking": 11,
+    "player_id": 1,
+    "points": 3465
+  },
+  {
+    "date": 20150302,
+    "ranking": 11,
+    "player_id": 1,
+    "points": 3055
+  },
+  {
+    "date": 20150406,
+    "ranking": 11,
+    "player_id": 1,
+    "points": 3055
+  },
+  {
+    "date": 20150504,
+    "ranking": 11,
+    "player_id": 1,
+    "points": 2985
+  },
+  {
+    "date": 20150608,
+    "ranking": 11,
+    "player_id": 1,
+    "points": 2760
+  },
+  {
+    "date": 20150713,
+    "ranking": 16,
+    "player_id": 1,
+    "points": 1970
+  },
+  {
+    "date": 20150803,
+    "ranking": 16,
+    "player_id": 1,
+    "points": 1970
+  },
+  {
+    "date": 20150914,
+    "ranking": 19,
+    "player_id": 1,
+    "points": 1600
+  },
+  {
+    "date": 20151005,
+    "ranking": 21,
+    "player_id": 1,
+    "points": 1555
+  },
+  {
+    "date": 20151102,
+    "ranking": 29,
+    "player_id": 1,
+    "points": 1315
+  },
+  {
+    "date": 20151207,
+    "ranking": 28,
+    "player_id": 1,
+    "points": 1360
+  },
+  {
+    "date": 20160104,
+    "ranking": 28,
+    "player_id": 1,
+    "points": 1360
+  },
+  {
+    "date": 20160201,
+    "ranking": 28,
+    "player_id": 1,
+    "points": 1330
+  },
+  {
+    "date": 20160307,
+    "ranking": 26,
+    "player_id": 1,
+    "points": 1420
+  },
+  {
+    "date": 20160404,
+    "ranking": 27,
+    "player_id": 1,
+    "points": 1430
+  },
+  {
+    "date": 20160502,
+    "ranking": 28,
+    "player_id": 1,
+    "points": 1355
+  },
+  {
+    "date": 20160606,
+    "ranking": 36,
+    "player_id": 1,
+    "points": 1150
+  },
+  {
+    "date": 20160711,
+    "ranking": 37,
+    "player_id": 1,
+    "points": 1150
+  },
+  {
+    "date": 20160801,
+    "ranking": 34,
+    "player_id": 1,
+    "points": 1285
+  },
+  {
+    "date": 20160912,
+    "ranking": 22,
+    "player_id": 1,
+    "points": 1690
+  },
+  {
+    "date": 20161003,
+    "ranking": 20,
+    "player_id": 1,
+    "points": 1735
+  },
+  {
+    "date": 20161107,
+    "ranking": 17,
+    "player_id": 1,
+    "points": 2035
+  },
+  {
+    "date": 20161205,
+    "ranking": 17,
+    "player_id": 1,
+    "points": 2035
+  },
+  {
+    "date": 20170102,
+    "ranking": 17,
+    "player_id": 1,
+    "points": 2035
+  },
+  {
+    "date": 20170206,
+    "ranking": 13,
+    "player_id": 1,
+    "points": 2765
+  },
+  {
+    "date": 20170306,
+    "ranking": 13,
+    "player_id": 1,
+    "points": 2925
+  },
+  {
+    "date": 20170403,
+    "ranking": 12,
+    "player_id": 1,
+    "points": 2880
+  },
+  {
+    "date": 20170501,
+    "ranking": 13,
+    "player_id": 1,
+    "points": 2820
+  },
+  {
+    "date": 20170612,
+    "ranking": 12,
+    "player_id": 1,
+    "points": 2980
+  },
+  {
+    "date": 20170703,
+    "ranking": 11,
+    "player_id": 1,
+    "points": 3070
+  },
+  {
+    "date": 20170807,
+    "ranking": 11,
+    "player_id": 1,
+    "points": 3070
+  },
+  {
+    "date": 20170911,
+    "ranking": 9,
+    "player_id": 1,
+    "points": 3575
+  },
+  {
+    "date": 20171002,
+    "ranking": 8,
+    "player_id": 1,
+    "points": 3575
+  },
+  {
+    "date": 20171106,
+    "ranking": 6,
+    "player_id": 1,
+    "points": 3650
+  },
+  {
+    "date": 20171204,
+    "ranking": 3,
+    "player_id": 1,
+    "points": 5150
+  },
+  {
+    "date": 20130107,
+    "ranking": 839,
+    "player_id": 2,
+    "points": 15
+  },
+  {
+    "date": 20130204,
+    "ranking": 842,
+    "player_id": 2,
+    "points": 15
+  },
+  {
+    "date": 20130304,
+    "ranking": 842,
+    "player_id": 2,
+    "points": 15
+  },
+  {
+    "date": 20130401,
+    "ranking": 821,
+    "player_id": 2,
+    "points": 16
+  },
+  {
+    "date": 20130506,
+    "ranking": 822,
+    "player_id": 2,
+    "points": 16
+  },
+  {
+    "date": 20130610,
+    "ranking": 814,
+    "player_id": 2,
+    "points": 17
+  },
+  {
+    "date": 20130708,
+    "ranking": 793,
+    "player_id": 2,
+    "points": 20
+  },
+  {
+    "date": 20130805,
+    "ranking": 799,
+    "player_id": 2,
+    "points": 20
+  },
+  {
+    "date": 20130909,
+    "ranking": 846,
+    "player_id": 2,
+    "points": 18
+  },
+  {
+    "date": 20131007,
+    "ranking": 745,
+    "player_id": 2,
+    "points": 24
+  },
+  {
+    "date": 20131104,
+    "ranking": 708,
+    "player_id": 2,
+    "points": 29
+  },
+  {
+    "date": 20131202,
+    "ranking": 808,
+    "player_id": 2,
+    "points": 21
+  },
+  {
+    "date": 20140106,
+    "ranking": 808,
+    "player_id": 2,
+    "points": 21
+  },
+  {
+    "date": 20140203,
+    "ranking": 807,
+    "player_id": 2,
+    "points": 21
+  },
+  {
+    "date": 20140303,
+    "ranking": 811,
+    "player_id": 2,
+    "points": 21
+  },
+  {
+    "date": 20140407,
+    "ranking": 822,
+    "player_id": 2,
+    "points": 20
+  },
+  {
+    "date": 20140505,
+    "ranking": 774,
+    "player_id": 2,
+    "points": 25
+  },
+  {
+    "date": 20140609,
+    "ranking": 675,
+    "player_id": 2,
+    "points": 36
+  },
+  {
+    "date": 20140707,
+    "ranking": 285,
+    "player_id": 2,
+    "points": 163
+  },
+  {
+    "date": 20140804,
+    "ranking": 159,
+    "player_id": 2,
+    "points": 343
+  },
+  {
+    "date": 20140908,
+    "ranking": 150,
+    "player_id": 2,
+    "points": 366
+  },
+  {
+    "date": 20141006,
+    "ranking": 143,
+    "player_id": 2,
+    "points": 393
+  },
+  {
+    "date": 20141103,
+    "ranking": 136,
+    "player_id": 2,
+    "points": 391
+  },
+  {
+    "date": 20141201,
+    "ranking": 137,
+    "player_id": 2,
+    "points": 389
+  },
+  {
+    "date": 20150105,
+    "ranking": 134,
+    "player_id": 2,
+    "points": 389
+  },
+  {
+    "date": 20150202,
+    "ranking": 135,
+    "player_id": 2,
+    "points": 389
+  },
+  {
+    "date": 20150302,
+    "ranking": 136,
+    "player_id": 2,
+    "points": 407
+  },
+  {
+    "date": 20150406,
+    "ranking": 119,
+    "player_id": 2,
+    "points": 473
+  },
+  {
+    "date": 20150504,
+    "ranking": 110,
+    "player_id": 2,
+    "points": 488
+  },
+  {
+    "date": 20150608,
+    "ranking": 84,
+    "player_id": 2,
+    "points": 609
+  },
+  {
+    "date": 20150713,
+    "ranking": 81,
+    "player_id": 2,
+    "points": 613
+  },
+  {
+    "date": 20150803,
+    "ranking": 96,
+    "player_id": 2,
+    "points": 523
+  },
+  {
+    "date": 20150914,
+    "ranking": 79,
+    "player_id": 2,
+    "points": 652
+  },
+  {
+    "date": 20151005,
+    "ranking": 78,
+    "player_id": 2,
+    "points": 633
+  },
+  {
+    "date": 20151102,
+    "ranking": 82,
+    "player_id": 2,
+    "points": 647
+  },
+  {
+    "date": 20151207,
+    "ranking": 83,
+    "player_id": 2,
+    "points": 647
+  },
+  {
+    "date": 20160104,
+    "ranking": 83,
+    "player_id": 2,
+    "points": 647
+  },
+  {
+    "date": 20160201,
+    "ranking": 85,
+    "player_id": 2,
+    "points": 651
+  },
+  {
+    "date": 20160307,
+    "ranking": 58,
+    "player_id": 2,
+    "points": 821
+  },
+  {
+    "date": 20160404,
+    "ranking": 54,
+    "player_id": 2,
+    "points": 870
+  },
+  {
+    "date": 20160502,
+    "ranking": 43,
+    "player_id": 2,
+    "points": 990
+  },
+  {
+    "date": 20160606,
+    "ranking": 38,
+    "player_id": 2,
+    "points": 1130
+  },
+  {
+    "date": 20160711,
+    "ranking": 27,
+    "player_id": 2,
+    "points": 1430
+  },
+  {
+    "date": 20160801,
+    "ranking": 24,
+    "player_id": 2,
+    "points": 1510
+  },
+  {
+    "date": 20160912,
+    "ranking": 27,
+    "player_id": 2,
+    "points": 1425
+  },
+  {
+    "date": 20161003,
+    "ranking": 24,
+    "player_id": 2,
+    "points": 1655
+  },
+  {
+    "date": 20161107,
+    "ranking": 24,
+    "player_id": 2,
+    "points": 1655
+  },
+  {
+    "date": 20161205,
+    "ranking": 24,
+    "player_id": 2,
+    "points": 1655
+  },
+  {
+    "date": 20170102,
+    "ranking": 24,
+    "player_id": 2,
+    "points": 1655
+  },
+  {
+    "date": 20170206,
+    "ranking": 21,
+    "player_id": 2,
+    "points": 1735
+  },
+  {
+    "date": 20170306,
+    "ranking": 20,
+    "player_id": 2,
+    "points": 1895
+  },
+  {
+    "date": 20170403,
+    "ranking": 20,
+    "player_id": 2,
+    "points": 2005
+  },
+  {
+    "date": 20170501,
+    "ranking": 20,
+    "player_id": 2,
+    "points": 2005
+  },
+  {
+    "date": 20170612,
+    "ranking": 10,
+    "player_id": 2,
+    "points": 3070
+  },
+  {
+    "date": 20170703,
+    "ranking": 12,
+    "player_id": 2,
+    "points": 3070
+  },
+  {
+    "date": 20170807,
+    "ranking": 8,
+    "player_id": 2,
+    "points": 3560
+  },
+  {
+    "date": 20170911,
+    "ranking": 4,
+    "player_id": 2,
+    "points": 4470
+  },
+  {
+    "date": 20171002,
+    "ranking": 4,
+    "player_id": 2,
+    "points": 4310
+  },
+  {
+    "date": 20171106,
+    "ranking": 3,
+    "player_id": 2,
+    "points": 4410
+  },
+  {
+    "date": 20171204,
+    "ranking": 4,
+    "player_id": 2,
+    "points": 4610
+  },
+  {
+    "date": 20130107,
+    "ranking": 309,
+    "player_id": 3,
+    "points": 147
+  },
+  {
+    "date": 20130204,
+    "ranking": 304,
+    "player_id": 3,
+    "points": 145
+  },
+  {
+    "date": 20130304,
+    "ranking": 305,
+    "player_id": 3,
+    "points": 144
+  },
+  {
+    "date": 20130401,
+    "ranking": 292,
+    "player_id": 3,
+    "points": 153
+  },
+  {
+    "date": 20130506,
+    "ranking": 258,
+    "player_id": 3,
+    "points": 179
+  },
+  {
+    "date": 20130610,
+    "ranking": 276,
+    "player_id": 3,
+    "points": 167
+  },
+  {
+    "date": 20130708,
+    "ranking": 274,
+    "player_id": 3,
+    "points": 167
+  },
+  {
+    "date": 20130805,
+    "ranking": 221,
+    "player_id": 3,
+    "points": 212
+  },
+  {
+    "date": 20130909,
+    "ranking": 166,
+    "player_id": 3,
+    "points": 303
+  },
+  {
+    "date": 20131007,
+    "ranking": 146,
+    "player_id": 3,
+    "points": 381
+  },
+  {
+    "date": 20131104,
+    "ranking": 122,
+    "player_id": 3,
+    "points": 464
+  },
+  {
+    "date": 20131202,
+    "ranking": 129,
+    "player_id": 3,
+    "points": 437
+  },
+  {
+    "date": 20140106,
+    "ranking": 137,
+    "player_id": 3,
+    "points": 422
+  },
+  {
+    "date": 20140203,
+    "ranking": 115,
+    "player_id": 3,
+    "points": 492
+  },
+  {
+    "date": 20140303,
+    "ranking": 101,
+    "player_id": 3,
+    "points": 567
+  },
+  {
+    "date": 20140407,
+    "ranking": 81,
+    "player_id": 3,
+    "points": 641
+  },
+  {
+    "date": 20140505,
+    "ranking": 70,
+    "player_id": 3,
+    "points": 687
+  },
+  {
+    "date": 20140609,
+    "ranking": 55,
+    "player_id": 3,
+    "points": 851
+  },
+  {
+    "date": 20140707,
+    "ranking": 57,
+    "player_id": 3,
+    "points": 852
+  },
+  {
+    "date": 20140804,
+    "ranking": 44,
+    "player_id": 3,
+    "points": 987
+  },
+  {
+    "date": 20140908,
+    "ranking": 36,
+    "player_id": 3,
+    "points": 1094
+  },
+  {
+    "date": 20141006,
+    "ranking": 39,
+    "player_id": 3,
+    "points": 1024
+  },
+  {
+    "date": 20141103,
+    "ranking": 39,
+    "player_id": 3,
+    "points": 989
+  },
+  {
+    "date": 20141201,
+    "ranking": 39,
+    "player_id": 3,
+    "points": 989
+  },
+  {
+    "date": 20150105,
+    "ranking": 39,
+    "player_id": 3,
+    "points": 977
+  },
+  {
+    "date": 20150202,
+    "ranking": 45,
+    "player_id": 3,
+    "points": 917
+  },
+  {
+    "date": 20150302,
+    "ranking": 46,
+    "player_id": 3,
+    "points": 932
+  },
+  {
+    "date": 20150406,
+    "ranking": 43,
+    "player_id": 3,
+    "points": 1030
+  },
+  {
+    "date": 20150504,
+    "ranking": 44,
+    "player_id": 3,
+    "points": 1020
+  },
+  {
+    "date": 20150608,
+    "ranking": 30,
+    "player_id": 3,
+    "points": 1225
+  },
+  {
+    "date": 20150713,
+    "ranking": 28,
+    "player_id": 3,
+    "points": 1270
+  },
+  {
+    "date": 20150803,
+    "ranking": 21,
+    "player_id": 3,
+    "points": 1575
+  },
+  {
+    "date": 20150914,
+    "ranking": 20,
+    "player_id": 3,
+    "points": 1555
+  },
+  {
+    "date": 20151005,
+    "ranking": 19,
+    "player_id": 3,
+    "points": 1600
+  },
+  {
+    "date": 20151102,
+    "ranking": 19,
+    "player_id": 3,
+    "points": 1600
+  },
+  {
+    "date": 20151207,
+    "ranking": 20,
+    "player_id": 3,
+    "points": 1600
+  },
+  {
+    "date": 20160104,
+    "ranking": 20,
+    "player_id": 3,
+    "points": 1600
+  },
+  {
+    "date": 20160201,
+    "ranking": 19,
+    "player_id": 3,
+    "points": 1725
+  },
+  {
+    "date": 20160307,
+    "ranking": 13,
+    "player_id": 3,
+    "points": 2430
+  },
+  {
+    "date": 20160404,
+    "ranking": 14,
+    "player_id": 3,
+    "points": 2420
+  },
+  {
+    "date": 20160502,
+    "ranking": 14,
+    "player_id": 3,
+    "points": 2480
+  },
+  {
+    "date": 20160606,
+    "ranking": 7,
+    "player_id": 3,
+    "points": 3105
+  },
+  {
+    "date": 20160711,
+    "ranking": 9,
+    "player_id": 3,
+    "points": 3175
+  },
+  {
+    "date": 20160801,
+    "ranking": 10,
+    "player_id": 3,
+    "points": 2865
+  },
+  {
+    "date": 20160912,
+    "ranking": 10,
+    "player_id": 3,
+    "points": 3295
+  },
+  {
+    "date": 20161003,
+    "ranking": 10,
+    "player_id": 3,
+    "points": 3295
+  },
+  {
+    "date": 20161107,
+    "ranking": 9,
+    "player_id": 3,
+    "points": 3215
+  },
+  {
+    "date": 20161205,
+    "ranking": 8,
+    "player_id": 3,
+    "points": 3415
+  },
+  {
+    "date": 20170102,
+    "ranking": 8,
+    "player_id": 3,
+    "points": 3415
+  },
+  {
+    "date": 20170206,
+    "ranking": 8,
+    "player_id": 3,
+    "points": 3505
+  },
+  {
+    "date": 20170306,
+    "ranking": 9,
+    "player_id": 3,
+    "points": 3375
+  },
+  {
+    "date": 20170403,
+    "ranking": 9,
+    "player_id": 3,
+    "points": 3385
+  },
+  {
+    "date": 20170501,
+    "ranking": 9,
+    "player_id": 3,
+    "points": 3535
+  },
+  {
+    "date": 20170612,
+    "ranking": 8,
+    "player_id": 3,
+    "points": 3985
+  },
+  {
+    "date": 20170703,
+    "ranking": 8,
+    "player_id": 3,
+    "points": 3895
+  },
+  {
+    "date": 20170807,
+    "ranking": 7,
+    "player_id": 3,
+    "points": 4065
+  },
+  {
+    "date": 20170911,
+    "ranking": 7,
+    "player_id": 3,
+    "points": 4030
+  },
+  {
+    "date": 20171002,
+    "ranking": 7,
+    "player_id": 3,
+    "points": 3925
+  },
+  {
+    "date": 20171106,
+    "ranking": 4,
+    "player_id": 3,
+    "points": 3815
+  },
+  {
+    "date": 20171204,
+    "ranking": 5,
+    "player_id": 3,
+    "points": 4015
+  },
+  {
+    "date": 20130107,
+    "ranking": 50,
+    "player_id": 4,
+    "points": 843
+  },
+  {
+    "date": 20130204,
+    "ranking": 48,
+    "player_id": 4,
+    "points": 855
+  },
+  {
+    "date": 20130304,
+    "ranking": 54,
+    "player_id": 4,
+    "points": 803
+  },
+  {
+    "date": 20130401,
+    "ranking": 64,
+    "player_id": 4,
+    "points": 732
+  },
+  {
+    "date": 20130506,
+    "ranking": 59,
+    "player_id": 4,
+    "points": 760
+  },
+  {
+    "date": 20130610,
+    "ranking": 84,
+    "player_id": 4,
+    "points": 611
+  },
+  {
+    "date": 20130708,
+    "ranking": 107,
+    "player_id": 4,
+    "points": 531
+  },
+  {
+    "date": 20130805,
+    "ranking": 86,
+    "player_id": 4,
+    "points": 611
+  },
+  {
+    "date": 20130909,
+    "ranking": 72,
+    "player_id": 4,
+    "points": 700
+  },
+  {
+    "date": 20131007,
+    "ranking": 93,
+    "player_id": 4,
+    "points": 590
+  },
+  {
+    "date": 20131104,
+    "ranking": 110,
+    "player_id": 4,
+    "points": 510
+  },
+  {
+    "date": 20131202,
+    "ranking": 110,
+    "player_id": 4,
+    "points": 510
+  },
+  {
+    "date": 20140106,
+    "ranking": 111,
+    "player_id": 4,
+    "points": 500
+  },
+  {
+    "date": 20140203,
+    "ranking": 108,
+    "player_id": 4,
+    "points": 530
+  },
+  {
+    "date": 20140303,
+    "ranking": 95,
+    "player_id": 4,
+    "points": 587
+  },
+  {
+    "date": 20140407,
+    "ranking": 106,
+    "player_id": 4,
+    "points": 561
+  },
+  {
+    "date": 20140505,
+    "ranking": 103,
+    "player_id": 4,
+    "points": 568
+  },
+  {
+    "date": 20140609,
+    "ranking": 105,
+    "player_id": 4,
+    "points": 548
+  },
+  {
+    "date": 20140707,
+    "ranking": 106,
+    "player_id": 4,
+    "points": 548
+  },
+  {
+    "date": 20140804,
+    "ranking": 48,
+    "player_id": 4,
+    "points": 923
+  },
+  {
+    "date": 20140908,
+    "ranking": 46,
+    "player_id": 4,
+    "points": 908
+  },
+  {
+    "date": 20141006,
+    "ranking": 27,
+    "player_id": 4,
+    "points": 1278
+  },
+  {
+    "date": 20141103,
+    "ranking": 22,
+    "player_id": 4,
+    "points": 1599
+  },
+  {
+    "date": 20141201,
+    "ranking": 22,
+    "player_id": 4,
+    "points": 1599
+  },
+  {
+    "date": 20150105,
+    "ranking": 22,
+    "player_id": 4,
+    "points": 1599
+  },
+  {
+    "date": 20150202,
+    "ranking": 21,
+    "player_id": 4,
+    "points": 1679
+  },
+  {
+    "date": 20150302,
+    "ranking": 21,
+    "player_id": 4,
+    "points": 1614
+  },
+  {
+    "date": 20150406,
+    "ranking": 21,
+    "player_id": 4,
+    "points": 1695
+  },
+  {
+    "date": 20150504,
+    "ranking": 21,
+    "player_id": 4,
+    "points": 1705
+  },
+  {
+    "date": 20150608,
+    "ranking": 15,
+    "player_id": 4,
+    "points": 1915
+  },
+  {
+    "date": 20150713,
+    "ranking": 14,
+    "player_id": 4,
+    "points": 2145
+  },
+  {
+    "date": 20150803,
+    "ranking": 15,
+    "player_id": 4,
+    "points": 2045
+  },
+  {
+    "date": 20150914,
+    "ranking": 15,
+    "player_id": 4,
+    "points": 2115
+  },
+  {
+    "date": 20151005,
+    "ranking": 17,
+    "player_id": 4,
+    "points": 1970
+  },
+  {
+    "date": 20151102,
+    "ranking": 16,
+    "player_id": 4,
+    "points": 1760
+  },
+  {
+    "date": 20151207,
+    "ranking": 16,
+    "player_id": 4,
+    "points": 1880
+  },
+  {
+    "date": 20160104,
+    "ranking": 16,
+    "player_id": 4,
+    "points": 1880
+  },
+  {
+    "date": 20160201,
+    "ranking": 16,
+    "player_id": 4,
+    "points": 1970
+  },
+  {
+    "date": 20160307,
+    "ranking": 18,
+    "player_id": 4,
+    "points": 1930
+  },
+  {
+    "date": 20160404,
+    "ranking": 13,
+    "player_id": 4,
+    "points": 2560
+  },
+  {
+    "date": 20160502,
+    "ranking": 13,
+    "player_id": 4,
+    "points": 2605
+  },
+  {
+    "date": 20160606,
+    "ranking": 11,
+    "player_id": 4,
+    "points": 2840
+  },
+  {
+    "date": 20160711,
+    "ranking": 11,
+    "player_id": 4,
+    "points": 2780
+  },
+  {
+    "date": 20160801,
+    "ranking": 13,
+    "player_id": 4,
+    "points": 2655
+  },
+  {
+    "date": 20160912,
+    "ranking": 14,
+    "player_id": 4,
+    "points": 2485
+  },
+  {
+    "date": 20161003,
+    "ranking": 14,
+    "player_id": 4,
+    "points": 2390
+  },
+  {
+    "date": 20161107,
+    "ranking": 11,
+    "player_id": 4,
+    "points": 2780
+  },
+  {
+    "date": 20161205,
+    "ranking": 11,
+    "player_id": 4,
+    "points": 2750
+  },
+  {
+    "date": 20170102,
+    "ranking": 11,
+    "player_id": 4,
+    "points": 2750
+  },
+  {
+    "date": 20170206,
+    "ranking": 11,
+    "player_id": 4,
+    "points": 2930
+  },
+  {
+    "date": 20170306,
+    "ranking": 12,
+    "player_id": 4,
+    "points": 3245
+  },
+  {
+    "date": 20170403,
+    "ranking": 14,
+    "player_id": 4,
+    "points": 2705
+  },
+  {
+    "date": 20170501,
+    "ranking": 10,
+    "player_id": 4,
+    "points": 2975
+  },
+  {
+    "date": 20170612,
+    "ranking": 13,
+    "player_id": 4,
+    "points": 2785
+  },
+  {
+    "date": 20170703,
+    "ranking": 13,
+    "player_id": 4,
+    "points": 2785
+  },
+  {
+    "date": 20170807,
+    "ranking": 13,
+    "player_id": 4,
+    "points": 2560
+  },
+  {
+    "date": 20170911,
+    "ranking": 12,
+    "player_id": 4,
+    "points": 2695
+  },
+  {
+    "date": 20171002,
+    "ranking": 11,
+    "player_id": 4,
+    "points": 2855
+  },
+  {
+    "date": 20171106,
+    "ranking": 8,
+    "player_id": 4,
+    "points": 2975
+  },
+  {
+    "date": 20171204,
+    "ranking": 7,
+    "player_id": 4,
+    "points": 3775
+  },
+  {
+    "date": 20130107,
+    "ranking": 152,
+    "player_id": 5,
+    "points": 375
+  },
+  {
+    "date": 20130204,
+    "ranking": 164,
+    "player_id": 5,
+    "points": 336
+  },
+  {
+    "date": 20130304,
+    "ranking": 125,
+    "player_id": 5,
+    "points": 432
+  },
+  {
+    "date": 20130401,
+    "ranking": 121,
+    "player_id": 5,
+    "points": 440
+  },
+  {
+    "date": 20130506,
+    "ranking": 118,
+    "player_id": 5,
+    "points": 460
+  },
+  {
+    "date": 20130610,
+    "ranking": 102,
+    "player_id": 5,
+    "points": 540
+  },
+  {
+    "date": 20130708,
+    "ranking": 84,
+    "player_id": 5,
+    "points": 628
+  },
+  {
+    "date": 20130805,
+    "ranking": 90,
+    "player_id": 5,
+    "points": 595
+  },
+  {
+    "date": 20130909,
+    "ranking": 88,
+    "player_id": 5,
+    "points": 608
+  },
+  {
+    "date": 20131007,
+    "ranking": 78,
+    "player_id": 5,
+    "points": 655
+  },
+  {
+    "date": 20131104,
+    "ranking": 91,
+    "player_id": 5,
+    "points": 585
+  },
+  {
+    "date": 20131202,
+    "ranking": 102,
+    "player_id": 5,
+    "points": 545
+  },
+  {
+    "date": 20140106,
+    "ranking": 100,
+    "player_id": 5,
+    "points": 545
+  },
+  {
+    "date": 20140203,
+    "ranking": 88,
+    "player_id": 5,
+    "points": 617
+  },
+  {
+    "date": 20140303,
+    "ranking": 102,
+    "player_id": 5,
+    "points": 562
+  },
+  {
+    "date": 20140407,
+    "ranking": 94,
+    "player_id": 5,
+    "points": 593
+  },
+  {
+    "date": 20140505,
+    "ranking": 77,
+    "player_id": 5,
+    "points": 656
+  },
+  {
+    "date": 20140609,
+    "ranking": 75,
+    "player_id": 5,
+    "points": 698
+  },
+  {
+    "date": 20140707,
+    "ranking": 76,
+    "player_id": 5,
+    "points": 663
+  },
+  {
+    "date": 20140804,
+    "ranking": 60,
+    "player_id": 5,
+    "points": 807
+  },
+  {
+    "date": 20140908,
+    "ranking": 66,
+    "player_id": 5,
+    "points": 756
+  },
+  {
+    "date": 20141006,
+    "ranking": 60,
+    "player_id": 5,
+    "points": 801
+  },
+  {
+    "date": 20141103,
+    "ranking": 42,
+    "player_id": 5,
+    "points": 934
+  },
+  {
+    "date": 20141201,
+    "ranking": 42,
+    "player_id": 5,
+    "points": 934
+  },
+  {
+    "date": 20150105,
+    "ranking": 42,
+    "player_id": 5,
+    "points": 934
+  },
+  {
+    "date": 20150202,
+    "ranking": 51,
+    "player_id": 5,
+    "points": 876
+  },
+  {
+    "date": 20150302,
+    "ranking": 57,
+    "player_id": 5,
+    "points": 851
+  },
+  {
+    "date": 20150406,
+    "ranking": 46,
+    "player_id": 5,
+    "points": 945
+  },
+  {
+    "date": 20150504,
+    "ranking": 37,
+    "player_id": 5,
+    "points": 1102
+  },
+  {
+    "date": 20150608,
+    "ranking": 31,
+    "player_id": 5,
+    "points": 1215
+  },
+  {
+    "date": 20150713,
+    "ranking": 39,
+    "player_id": 5,
+    "points": 1090
+  },
+  {
+    "date": 20150803,
+    "ranking": 37,
+    "player_id": 5,
+    "points": 1070
+  },
+  {
+    "date": 20150914,
+    "ranking": 29,
+    "player_id": 5,
+    "points": 1285
+  },
+  {
+    "date": 20151005,
+    "ranking": 30,
+    "player_id": 5,
+    "points": 1210
+  },
+  {
+    "date": 20151102,
+    "ranking": 25,
+    "player_id": 5,
+    "points": 1470
+  },
+  {
+    "date": 20151207,
+    "ranking": 26,
+    "player_id": 5,
+    "points": 1465
+  },
+  {
+    "date": 20160104,
+    "ranking": 26,
+    "player_id": 5,
+    "points": 1465
+  },
+  {
+    "date": 20160201,
+    "ranking": 23,
+    "player_id": 5,
+    "points": 1570
+  },
+  {
+    "date": 20160307,
+    "ranking": 24,
+    "player_id": 5,
+    "points": 1570
+  },
+  {
+    "date": 20160404,
+    "ranking": 25,
+    "player_id": 5,
+    "points": 1525
+  },
+  {
+    "date": 20160502,
+    "ranking": 26,
+    "player_id": 5,
+    "points": 1425
+  },
+  {
+    "date": 20160606,
+    "ranking": 27,
+    "player_id": 5,
+    "points": 1415
+  },
+  {
+    "date": 20160711,
+    "ranking": 26,
+    "player_id": 5,
+    "points": 1495
+  },
+  {
+    "date": 20160801,
+    "ranking": 25,
+    "player_id": 5,
+    "points": 1495
+  },
+  {
+    "date": 20160912,
+    "ranking": 24,
+    "player_id": 5,
+    "points": 1585
+  },
+  {
+    "date": 20161003,
+    "ranking": 25,
+    "player_id": 5,
+    "points": 1585
+  },
+  {
+    "date": 20161107,
+    "ranking": 23,
+    "player_id": 5,
+    "points": 1710
+  },
+  {
+    "date": 20161205,
+    "ranking": 23,
+    "player_id": 5,
+    "points": 1710
+  },
+  {
+    "date": 20170102,
+    "ranking": 23,
+    "player_id": 5,
+    "points": 1710
+  },
+  {
+    "date": 20170206,
+    "ranking": 19,
+    "player_id": 5,
+    "points": 1855
+  },
+  {
+    "date": 20170306,
+    "ranking": 18,
+    "player_id": 5,
+    "points": 2060
+  },
+  {
+    "date": 20170403,
+    "ranking": 15,
+    "player_id": 5,
+    "points": 2510
+  },
+  {
+    "date": 20170501,
+    "ranking": 15,
+    "player_id": 5,
+    "points": 2450
+  },
+  {
+    "date": 20170612,
+    "ranking": 18,
+    "player_id": 5,
+    "points": 2335
+  },
+  {
+    "date": 20170703,
+    "ranking": 18,
+    "player_id": 5,
+    "points": 2335
+  },
+  {
+    "date": 20170807,
+    "ranking": 17,
+    "player_id": 5,
+    "points": 2335
+  },
+  {
+    "date": 20170911,
+    "ranking": 21,
+    "player_id": 5,
+    "points": 2175
+  },
+  {
+    "date": 20171002,
+    "ranking": 21,
+    "player_id": 5,
+    "points": 2175
+  },
+  {
+    "date": 20171106,
+    "ranking": 9,
+    "player_id": 5,
+    "points": 2765
+  },
+  {
+    "date": 20171204,
+    "ranking": 8,
+    "player_id": 5,
+    "points": 3165
+  },
+  {
+    "date": 20130107,
+    "ranking": 431,
+    "player_id": 6,
+    "points": 85
+  },
+  {
+    "date": 20130204,
+    "ranking": 405,
+    "player_id": 6,
+    "points": 93
+  },
+  {
+    "date": 20130304,
+    "ranking": 410,
+    "player_id": 6,
+    "points": 93
+  },
+  {
+    "date": 20130401,
+    "ranking": 401,
+    "player_id": 6,
+    "points": 95
+  },
+  {
+    "date": 20130506,
+    "ranking": 336,
+    "player_id": 6,
+    "points": 126
+  },
+  {
+    "date": 20130610,
+    "ranking": 261,
+    "player_id": 6,
+    "points": 174
+  },
+  {
+    "date": 20130708,
+    "ranking": 247,
+    "player_id": 6,
+    "points": 188
+  },
+  {
+    "date": 20130805,
+    "ranking": 218,
+    "player_id": 6,
+    "points": 216
+  },
+  {
+    "date": 20130909,
+    "ranking": 202,
+    "player_id": 6,
+    "points": 229
+  },
+  {
+    "date": 20131007,
+    "ranking": 218,
+    "player_id": 6,
+    "points": 220
+  },
+  {
+    "date": 20131104,
+    "ranking": 187,
+    "player_id": 6,
+    "points": 273
+  },
+  {
+    "date": 20131202,
+    "ranking": 203,
+    "player_id": 6,
+    "points": 246
+  },
+  {
+    "date": 20140106,
+    "ranking": 193,
+    "player_id": 6,
+    "points": 262
+  },
+  {
+    "date": 20140203,
+    "ranking": 196,
+    "player_id": 6,
+    "points": 254
+  },
+  {
+    "date": 20140303,
+    "ranking": 173,
+    "player_id": 6,
+    "points": 290
+  },
+  {
+    "date": 20140407,
+    "ranking": 180,
+    "player_id": 6,
+    "points": 286
+  },
+  {
+    "date": 20140505,
+    "ranking": 189,
+    "player_id": 6,
+    "points": 271
+  },
+  {
+    "date": 20140609,
+    "ranking": 200,
+    "player_id": 6,
+    "points": 249
+  },
+  {
+    "date": 20140707,
+    "ranking": 190,
+    "player_id": 6,
+    "points": 266
+  },
+  {
+    "date": 20140804,
+    "ranking": 206,
+    "player_id": 6,
+    "points": 240
+  },
+  {
+    "date": 20140908,
+    "ranking": 225,
+    "player_id": 6,
+    "points": 217
+  },
+  {
+    "date": 20141006,
+    "ranking": 164,
+    "player_id": 6,
+    "points": 324
+  },
+  {
+    "date": 20141103,
+    "ranking": 134,
+    "player_id": 6,
+    "points": 397
+  },
+  {
+    "date": 20141201,
+    "ranking": 133,
+    "player_id": 6,
+    "points": 408
+  },
+  {
+    "date": 20150105,
+    "ranking": 133,
+    "player_id": 6,
+    "points": 391
+  },
+  {
+    "date": 20150202,
+    "ranking": 115,
+    "player_id": 6,
+    "points": 486
+  },
+  {
+    "date": 20150302,
+    "ranking": 112,
+    "player_id": 6,
+    "points": 492
+  },
+  {
+    "date": 20150406,
+    "ranking": 113,
+    "player_id": 6,
+    "points": 492
+  },
+  {
+    "date": 20150504,
+    "ranking": 92,
+    "player_id": 6,
+    "points": 563
+  },
+  {
+    "date": 20150608,
+    "ranking": 94,
+    "player_id": 6,
+    "points": 562
+  },
+  {
+    "date": 20150713,
+    "ranking": 94,
+    "player_id": 6,
+    "points": 543
+  },
+  {
+    "date": 20150803,
+    "ranking": 64,
+    "player_id": 6,
+    "points": 753
+  },
+  {
+    "date": 20150914,
+    "ranking": 69,
+    "player_id": 6,
+    "points": 718
+  },
+  {
+    "date": 20151005,
+    "ranking": 69,
+    "player_id": 6,
+    "points": 715
+  },
+  {
+    "date": 20151102,
+    "ranking": 84,
+    "player_id": 6,
+    "points": 645
+  },
+  {
+    "date": 20151207,
+    "ranking": 78,
+    "player_id": 6,
+    "points": 672
+  },
+  {
+    "date": 20160104,
+    "ranking": 78,
+    "player_id": 6,
+    "points": 672
+  },
+  {
+    "date": 20160201,
+    "ranking": 89,
+    "player_id": 6,
+    "points": 631
+  },
+  {
+    "date": 20160307,
+    "ranking": 87,
+    "player_id": 6,
+    "points": 619
+  },
+  {
+    "date": 20160404,
+    "ranking": 81,
+    "player_id": 6,
+    "points": 694
+  },
+  {
+    "date": 20160502,
+    "ranking": 58,
+    "player_id": 6,
+    "points": 860
+  },
+  {
+    "date": 20160606,
+    "ranking": 29,
+    "player_id": 6,
+    "points": 1311
+  },
+  {
+    "date": 20160711,
+    "ranking": 21,
+    "player_id": 6,
+    "points": 1661
+  },
+  {
+    "date": 20160801,
+    "ranking": 27,
+    "player_id": 6,
+    "points": 1489
+  },
+  {
+    "date": 20160912,
+    "ranking": 18,
+    "player_id": 6,
+    "points": 1831
+  },
+  {
+    "date": 20161003,
+    "ranking": 16,
+    "player_id": 6,
+    "points": 2036
+  },
+  {
+    "date": 20161107,
+    "ranking": 15,
+    "player_id": 6,
+    "points": 2196
+  },
+  {
+    "date": 20161205,
+    "ranking": 15,
+    "player_id": 6,
+    "points": 2156
+  },
+  {
+    "date": 20170102,
+    "ranking": 15,
+    "player_id": 6,
+    "points": 2156
+  },
+  {
+    "date": 20170206,
+    "ranking": 17,
+    "player_id": 6,
+    "points": 2131
+  },
+  {
+    "date": 20170306,
+    "ranking": 15,
+    "player_id": 6,
+    "points": 2421
+  },
+  {
+    "date": 20170403,
+    "ranking": 17,
+    "player_id": 6,
+    "points": 2376
+  },
+  {
+    "date": 20170501,
+    "ranking": 14,
+    "player_id": 6,
+    "points": 2746
+  },
+  {
+    "date": 20170612,
+    "ranking": 16,
+    "player_id": 6,
+    "points": 2365
+  },
+  {
+    "date": 20170703,
+    "ranking": 16,
+    "player_id": 6,
+    "points": 2570
+  },
+  {
+    "date": 20170807,
+    "ranking": 18,
+    "player_id": 6,
+    "points": 2255
+  },
+  {
+    "date": 20170911,
+    "ranking": 22,
+    "player_id": 6,
+    "points": 2030
+  },
+  {
+    "date": 20171002,
+    "ranking": 23,
+    "player_id": 6,
+    "points": 1825
+  },
+  {
+    "date": 20171106,
+    "ranking": 18,
+    "player_id": 6,
+    "points": 2235
+  },
+  {
+    "date": 20171204,
+    "ranking": 18,
+    "player_id": 6,
+    "points": 2235
+  },
+  {
+    "date": 20130107,
+    "ranking": 654,
+    "player_id": 7,
+    "points": 33
+  },
+  {
+    "date": 20130204,
+    "ranking": 534,
+    "player_id": 7,
+    "points": 55
+  },
+  {
+    "date": 20130304,
+    "ranking": 371,
+    "player_id": 7,
+    "points": 109
+  },
+  {
+    "date": 20130401,
+    "ranking": 300,
+    "player_id": 7,
+    "points": 148
+  },
+  {
+    "date": 20130506,
+    "ranking": 169,
+    "player_id": 7,
+    "points": 302
+  },
+  {
+    "date": 20130610,
+    "ranking": 147,
+    "player_id": 7,
+    "points": 360
+  },
+  {
+    "date": 20130708,
+    "ranking": 125,
+    "player_id": 7,
+    "points": 466
+  },
+  {
+    "date": 20130805,
+    "ranking": 91,
+    "player_id": 7,
+    "points": 587
+  },
+  {
+    "date": 20130909,
+    "ranking": 67,
+    "player_id": 7,
+    "points": 733
+  },
+  {
+    "date": 20131007,
+    "ranking": 66,
+    "player_id": 7,
+    "points": 735
+  },
+  {
+    "date": 20131104,
+    "ranking": 65,
+    "player_id": 7,
+    "points": 739
+  },
+  {
+    "date": 20131202,
+    "ranking": 64,
+    "player_id": 7,
+    "points": 739
+  },
+  {
+    "date": 20140106,
+    "ranking": 61,
+    "player_id": 7,
+    "points": 739
+  },
+  {
+    "date": 20140203,
+    "ranking": 65,
+    "player_id": 7,
+    "points": 731
+  },
+  {
+    "date": 20140303,
+    "ranking": 63,
+    "player_id": 7,
+    "points": 733
+  },
+  {
+    "date": 20140407,
+    "ranking": 64,
+    "player_id": 7,
+    "points": 717
+  },
+  {
+    "date": 20140505,
+    "ranking": 63,
+    "player_id": 7,
+    "points": 734
+  },
+  {
+    "date": 20140609,
+    "ranking": 73,
+    "player_id": 7,
+    "points": 704
+  },
+  {
+    "date": 20140707,
+    "ranking": 62,
+    "player_id": 7,
+    "points": 799
+  },
+  {
+    "date": 20140804,
+    "ranking": 69,
+    "player_id": 7,
+    "points": 761
+  },
+  {
+    "date": 20140908,
+    "ranking": 74,
+    "player_id": 7,
+    "points": 701
+  },
+  {
+    "date": 20141006,
+    "ranking": 63,
+    "player_id": 7,
+    "points": 771
+  },
+  {
+    "date": 20141103,
+    "ranking": 50,
+    "player_id": 7,
+    "points": 841
+  },
+  {
+    "date": 20141201,
+    "ranking": 51,
+    "player_id": 7,
+    "points": 841
+  },
+  {
+    "date": 20150105,
+    "ranking": 49,
+    "player_id": 7,
+    "points": 841
+  },
+  {
+    "date": 20150202,
+    "ranking": 54,
+    "player_id": 7,
+    "points": 841
+  },
+  {
+    "date": 20150302,
+    "ranking": 54,
+    "player_id": 7,
+    "points": 866
+  },
+  {
+    "date": 20150406,
+    "ranking": 54,
+    "player_id": 7,
+    "points": 866
+  },
+  {
+    "date": 20150504,
+    "ranking": 60,
+    "player_id": 7,
+    "points": 825
+  },
+  {
+    "date": 20150608,
+    "ranking": 54,
+    "player_id": 7,
+    "points": 860
+  },
+  {
+    "date": 20150713,
+    "ranking": 67,
+    "player_id": 7,
+    "points": 735
+  },
+  {
+    "date": 20150803,
+    "ranking": 56,
+    "player_id": 7,
+    "points": 825
+  },
+  {
+    "date": 20150914,
+    "ranking": 60,
+    "player_id": 7,
+    "points": 775
+  },
+  {
+    "date": 20151005,
+    "ranking": 62,
+    "player_id": 7,
+    "points": 780
+  },
+  {
+    "date": 20151102,
+    "ranking": 69,
+    "player_id": 7,
+    "points": 719
+  },
+  {
+    "date": 20151207,
+    "ranking": 67,
+    "player_id": 7,
+    "points": 734
+  },
+  {
+    "date": 20160104,
+    "ranking": 67,
+    "player_id": 7,
+    "points": 734
+  },
+  {
+    "date": 20160201,
+    "ranking": 67,
+    "player_id": 7,
+    "points": 734
+  },
+  {
+    "date": 20160307,
+    "ranking": 52,
+    "player_id": 7,
+    "points": 864
+  },
+  {
+    "date": 20160404,
+    "ranking": 52,
+    "player_id": 7,
+    "points": 879
+  },
+  {
+    "date": 20160502,
+    "ranking": 46,
+    "player_id": 7,
+    "points": 979
+  },
+  {
+    "date": 20160606,
+    "ranking": 43,
+    "player_id": 7,
+    "points": 995
+  },
+  {
+    "date": 20160711,
+    "ranking": 46,
+    "player_id": 7,
+    "points": 950
+  },
+  {
+    "date": 20160801,
+    "ranking": 56,
+    "player_id": 7,
+    "points": 879
+  },
+  {
+    "date": 20160912,
+    "ranking": 39,
+    "player_id": 7,
+    "points": 1145
+  },
+  {
+    "date": 20161003,
+    "ranking": 38,
+    "player_id": 7,
+    "points": 1145
+  },
+  {
+    "date": 20161107,
+    "ranking": 30,
+    "player_id": 7,
+    "points": 1370
+  },
+  {
+    "date": 20161205,
+    "ranking": 30,
+    "player_id": 7,
+    "points": 1370
+  },
+  {
+    "date": 20170102,
+    "ranking": 30,
+    "player_id": 7,
+    "points": 1370
+  },
+  {
+    "date": 20170206,
+    "ranking": 26,
+    "player_id": 7,
+    "points": 1450
+  },
+  {
+    "date": 20170306,
+    "ranking": 23,
+    "player_id": 7,
+    "points": 1690
+  },
+  {
+    "date": 20170403,
+    "ranking": 19,
+    "player_id": 7,
+    "points": 2025
+  },
+  {
+    "date": 20170501,
+    "ranking": 21,
+    "player_id": 7,
+    "points": 1965
+  },
+  {
+    "date": 20170612,
+    "ranking": 17,
+    "player_id": 7,
+    "points": 2360
+  },
+  {
+    "date": 20170703,
+    "ranking": 17,
+    "player_id": 7,
+    "points": 2360
+  },
+  {
+    "date": 20170807,
+    "ranking": 15,
+    "player_id": 7,
+    "points": 2350
+  },
+  {
+    "date": 20170911,
+    "ranking": 10,
+    "player_id": 7,
+    "points": 2855
+  },
+  {
+    "date": 20171002,
+    "ranking": 10,
+    "player_id": 7,
+    "points": 2855
+  },
+  {
+    "date": 20171106,
+    "ranking": 10,
+    "player_id": 7,
+    "points": 2615
+  },
+  {
+    "date": 20171204,
+    "ranking": 10,
+    "player_id": 7,
+    "points": 2615
+  },
+  {
+    "date": 20130107,
+    "ranking": 179,
+    "player_id": 8,
+    "points": 292
+  },
+  {
+    "date": 20130204,
+    "ranking": 168,
+    "player_id": 8,
+    "points": 323
+  },
+  {
+    "date": 20130304,
+    "ranking": 151,
+    "player_id": 8,
+    "points": 361
+  },
+  {
+    "date": 20130401,
+    "ranking": 149,
+    "player_id": 8,
+    "points": 357
+  },
+  {
+    "date": 20130506,
+    "ranking": 127,
+    "player_id": 8,
+    "points": 427
+  },
+  {
+    "date": 20130610,
+    "ranking": 133,
+    "player_id": 8,
+    "points": 414
+  },
+  {
+    "date": 20130708,
+    "ranking": 135,
+    "player_id": 8,
+    "points": 419
+  },
+  {
+    "date": 20130805,
+    "ranking": 136,
+    "player_id": 8,
+    "points": 434
+  },
+  {
+    "date": 20130909,
+    "ranking": 137,
+    "player_id": 8,
+    "points": 412
+  },
+  {
+    "date": 20131007,
+    "ranking": 112,
+    "player_id": 8,
+    "points": 503
+  },
+  {
+    "date": 20131104,
+    "ranking": 114,
+    "player_id": 8,
+    "points": 501
+  },
+  {
+    "date": 20131202,
+    "ranking": 117,
+    "player_id": 8,
+    "points": 480
+  },
+  {
+    "date": 20140106,
+    "ranking": 118,
+    "player_id": 8,
+    "points": 480
+  },
+  {
+    "date": 20140203,
+    "ranking": 116,
+    "player_id": 8,
+    "points": 485
+  },
+  {
+    "date": 20140303,
+    "ranking": 130,
+    "player_id": 8,
+    "points": 449
+  },
+  {
+    "date": 20140407,
+    "ranking": 128,
+    "player_id": 8,
+    "points": 455
+  },
+  {
+    "date": 20140505,
+    "ranking": 126,
+    "player_id": 8,
+    "points": 449
+  },
+  {
+    "date": 20140609,
+    "ranking": 96,
+    "player_id": 8,
+    "points": 595
+  },
+  {
+    "date": 20140707,
+    "ranking": 96,
+    "player_id": 8,
+    "points": 577
+  },
+  {
+    "date": 20140804,
+    "ranking": 98,
+    "player_id": 8,
+    "points": 583
+  },
+  {
+    "date": 20140908,
+    "ranking": 85,
+    "player_id": 8,
+    "points": 647
+  },
+  {
+    "date": 20141006,
+    "ranking": 79,
+    "player_id": 8,
+    "points": 670
+  },
+  {
+    "date": 20141103,
+    "ranking": 78,
+    "player_id": 8,
+    "points": 660
+  },
+  {
+    "date": 20141201,
+    "ranking": 61,
+    "player_id": 8,
+    "points": 775
+  },
+  {
+    "date": 20150105,
+    "ranking": 60,
+    "player_id": 8,
+    "points": 775
+  },
+  {
+    "date": 20150202,
+    "ranking": 63,
+    "player_id": 8,
+    "points": 770
+  },
+  {
+    "date": 20150302,
+    "ranking": 63,
+    "player_id": 8,
+    "points": 780
+  },
+  {
+    "date": 20150406,
+    "ranking": 62,
+    "player_id": 8,
+    "points": 792
+  },
+  {
+    "date": 20150504,
+    "ranking": 57,
+    "player_id": 8,
+    "points": 840
+  },
+  {
+    "date": 20150608,
+    "ranking": 65,
+    "player_id": 8,
+    "points": 760
+  },
+  {
+    "date": 20150713,
+    "ranking": 65,
+    "player_id": 8,
+    "points": 745
+  },
+  {
+    "date": 20150803,
+    "ranking": 68,
+    "player_id": 8,
+    "points": 735
+  },
+  {
+    "date": 20150914,
+    "ranking": 68,
+    "player_id": 8,
+    "points": 720
+  },
+  {
+    "date": 20151005,
+    "ranking": 72,
+    "player_id": 8,
+    "points": 695
+  },
+  {
+    "date": 20151102,
+    "ranking": 77,
+    "player_id": 8,
+    "points": 663
+  },
+  {
+    "date": 20151207,
+    "ranking": 88,
+    "player_id": 8,
+    "points": 624
+  },
+  {
+    "date": 20160104,
+    "ranking": 88,
+    "player_id": 8,
+    "points": 624
+  },
+  {
+    "date": 20160201,
+    "ranking": 90,
+    "player_id": 8,
+    "points": 621
+  },
+  {
+    "date": 20160307,
+    "ranking": 84,
+    "player_id": 8,
+    "points": 649
+  },
+  {
+    "date": 20160404,
+    "ranking": 88,
+    "player_id": 8,
+    "points": 639
+  },
+  {
+    "date": 20160502,
+    "ranking": 62,
+    "player_id": 8,
+    "points": 784
+  },
+  {
+    "date": 20160606,
+    "ranking": 69,
+    "player_id": 8,
+    "points": 746
+  },
+  {
+    "date": 20160711,
+    "ranking": 70,
+    "player_id": 8,
+    "points": 746
+  },
+  {
+    "date": 20160801,
+    "ranking": 72,
+    "player_id": 8,
+    "points": 746
+  },
+  {
+    "date": 20160912,
+    "ranking": 63,
+    "player_id": 8,
+    "points": 781
+  },
+  {
+    "date": 20161003,
+    "ranking": 70,
+    "player_id": 8,
+    "points": 743
+  },
+  {
+    "date": 20161107,
+    "ranking": 58,
+    "player_id": 8,
+    "points": 807
+  },
+  {
+    "date": 20161205,
+    "ranking": 52,
+    "player_id": 8,
+    "points": 864
+  },
+  {
+    "date": 20170102,
+    "ranking": 52,
+    "player_id": 8,
+    "points": 864
+  },
+  {
+    "date": 20170206,
+    "ranking": 52,
+    "player_id": 8,
+    "points": 902
+  },
+  {
+    "date": 20170306,
+    "ranking": 44,
+    "player_id": 8,
+    "points": 972
+  },
+  {
+    "date": 20170403,
+    "ranking": 41,
+    "player_id": 8,
+    "points": 990
+  },
+  {
+    "date": 20170501,
+    "ranking": 46,
+    "player_id": 8,
+    "points": 912
+  },
+  {
+    "date": 20170612,
+    "ranking": 35,
+    "player_id": 8,
+    "points": 1085
+  },
+  {
+    "date": 20170703,
+    "ranking": 37,
+    "player_id": 8,
+    "points": 1085
+  },
+  {
+    "date": 20170807,
+    "ranking": 36,
+    "player_id": 8,
+    "points": 1180
+  },
+  {
+    "date": 20170911,
+    "ranking": 28,
+    "player_id": 8,
+    "points": 1585
+  },
+  {
+    "date": 20171002,
+    "ranking": 29,
+    "player_id": 8,
+    "points": 1585
+  },
+  {
+    "date": 20171106,
+    "ranking": 26,
+    "player_id": 8,
+    "points": 1675
+  },
+  {
+    "date": 20171204,
+    "ranking": 26,
+    "player_id": 8,
+    "points": 1675
+  },
+  {
+    "date": 20130107,
+    "ranking": 840,
+    "player_id": 9,
+    "points": 15
+  },
+  {
+    "date": 20130204,
+    "ranking": 843,
+    "player_id": 9,
+    "points": 15
+  },
+  {
+    "date": 20130304,
+    "ranking": 330,
+    "player_id": 9,
+    "points": 127
+  },
+  {
+    "date": 20130401,
+    "ranking": 328,
+    "player_id": 9,
+    "points": 127
+  },
+  {
+    "date": 20130506,
+    "ranking": 265,
+    "player_id": 9,
+    "points": 175
+  },
+  {
+    "date": 20130610,
+    "ranking": 213,
+    "player_id": 9,
+    "points": 219
+  },
+  {
+    "date": 20130708,
+    "ranking": 214,
+    "player_id": 9,
+    "points": 219
+  },
+  {
+    "date": 20130805,
+    "ranking": 211,
+    "player_id": 9,
+    "points": 219
+  },
+  {
+    "date": 20130909,
+    "ranking": 186,
+    "player_id": 9,
+    "points": 254
+  },
+  {
+    "date": 20131007,
+    "ranking": 177,
+    "player_id": 9,
+    "points": 289
+  },
+  {
+    "date": 20131104,
+    "ranking": 183,
+    "player_id": 9,
+    "points": 280
+  },
+  {
+    "date": 20131202,
+    "ranking": 182,
+    "player_id": 9,
+    "points": 277
+  },
+  {
+    "date": 20140106,
+    "ranking": 183,
+    "player_id": 9,
+    "points": 277
+  },
+  {
+    "date": 20140203,
+    "ranking": 157,
+    "player_id": 9,
+    "points": 332
+  },
+  {
+    "date": 20140303,
+    "ranking": 226,
+    "player_id": 9,
+    "points": 220
+  },
+  {
+    "date": 20140407,
+    "ranking": 220,
+    "player_id": 9,
+    "points": 220
+  },
+  {
+    "date": 20140505,
+    "ranking": 159,
+    "player_id": 9,
+    "points": 350
+  },
+  {
+    "date": 20140609,
+    "ranking": 173,
+    "player_id": 9,
+    "points": 305
+  },
+  {
+    "date": 20140707,
+    "ranking": 66,
+    "player_id": 9,
+    "points": 760
+  },
+  {
+    "date": 20140804,
+    "ranking": 70,
+    "player_id": 9,
+    "points": 760
+  },
+  {
+    "date": 20140908,
+    "ranking": 53,
+    "player_id": 9,
+    "points": 860
+  },
+  {
+    "date": 20141006,
+    "ranking": 57,
+    "player_id": 9,
+    "points": 830
+  },
+  {
+    "date": 20141103,
+    "ranking": 51,
+    "player_id": 9,
+    "points": 830
+  },
+  {
+    "date": 20141201,
+    "ranking": 52,
+    "player_id": 9,
+    "points": 830
+  },
+  {
+    "date": 20150105,
+    "ranking": 50,
+    "player_id": 9,
+    "points": 830
+  },
+  {
+    "date": 20150202,
+    "ranking": 35,
+    "player_id": 9,
+    "points": 1145
+  },
+  {
+    "date": 20150302,
+    "ranking": 36,
+    "player_id": 9,
+    "points": 1135
+  },
+  {
+    "date": 20150406,
+    "ranking": 34,
+    "player_id": 9,
+    "points": 1160
+  },
+  {
+    "date": 20150504,
+    "ranking": 35,
+    "player_id": 9,
+    "points": 1130
+  },
+  {
+    "date": 20150608,
+    "ranking": 25,
+    "player_id": 9,
+    "points": 1340
+  },
+  {
+    "date": 20150713,
+    "ranking": 41,
+    "player_id": 9,
+    "points": 1065
+  },
+  {
+    "date": 20150803,
+    "ranking": 38,
+    "player_id": 9,
+    "points": 1065
+  },
+  {
+    "date": 20150914,
+    "ranking": 42,
+    "player_id": 9,
+    "points": 1035
+  },
+  {
+    "date": 20151005,
+    "ranking": 34,
+    "player_id": 9,
+    "points": 1125
+  },
+  {
+    "date": 20151102,
+    "ranking": 30,
+    "player_id": 9,
+    "points": 1260
+  },
+  {
+    "date": 20151207,
+    "ranking": 30,
+    "player_id": 9,
+    "points": 1260
+  },
+  {
+    "date": 20160104,
+    "ranking": 30,
+    "player_id": 9,
+    "points": 1260
+  },
+  {
+    "date": 20160201,
+    "ranking": 41,
+    "player_id": 9,
+    "points": 990
+  },
+  {
+    "date": 20160307,
+    "ranking": 27,
+    "player_id": 9,
+    "points": 1420
+  },
+  {
+    "date": 20160404,
+    "ranking": 20,
+    "player_id": 9,
+    "points": 1765
+  },
+  {
+    "date": 20160502,
+    "ranking": 21,
+    "player_id": 9,
+    "points": 1705
+  },
+  {
+    "date": 20160606,
+    "ranking": 19,
+    "player_id": 9,
+    "points": 1855
+  },
+  {
+    "date": 20160711,
+    "ranking": 18,
+    "player_id": 9,
+    "points": 1855
+  },
+  {
+    "date": 20160801,
+    "ranking": 18,
+    "player_id": 9,
+    "points": 1865
+  },
+  {
+    "date": 20160912,
+    "ranking": 15,
+    "player_id": 9,
+    "points": 2140
+  },
+  {
+    "date": 20161003,
+    "ranking": 15,
+    "player_id": 9,
+    "points": 2050
+  },
+  {
+    "date": 20161107,
+    "ranking": 13,
+    "player_id": 9,
+    "points": 2460
+  },
+  {
+    "date": 20161205,
+    "ranking": 13,
+    "player_id": 9,
+    "points": 2460
+  },
+  {
+    "date": 20170102,
+    "ranking": 13,
+    "player_id": 9,
+    "points": 2460
+  },
+  {
+    "date": 20170206,
+    "ranking": 15,
+    "player_id": 9,
+    "points": 2415
+  },
+  {
+    "date": 20170306,
+    "ranking": 16,
+    "player_id": 9,
+    "points": 2255
+  },
+  {
+    "date": 20170403,
+    "ranking": 16,
+    "player_id": 9,
+    "points": 2425
+  },
+  {
+    "date": 20170501,
+    "ranking": 17,
+    "player_id": 9,
+    "points": 2335
+  },
+  {
+    "date": 20170612,
+    "ranking": 20,
+    "player_id": 9,
+    "points": 2110
+  },
+  {
+    "date": 20170703,
+    "ranking": 20,
+    "player_id": 9,
+    "points": 2110
+  },
+  {
+    "date": 20170807,
+    "ranking": 24,
+    "player_id": 9,
+    "points": 1680
+  },
+  {
+    "date": 20170911,
+    "ranking": 20,
+    "player_id": 9,
+    "points": 2245
+  },
+  {
+    "date": 20171002,
+    "ranking": 19,
+    "player_id": 9,
+    "points": 2245
+  },
+  {
+    "date": 20171106,
+    "ranking": 21,
+    "player_id": 9,
+    "points": 2010
+  },
+  {
+    "date": 20171204,
+    "ranking": 21,
+    "player_id": 9,
+    "points": 2010
+  },
+  {
+    "date": 20130107,
+    "ranking": 15,
+    "player_id": 10,
+    "points": 2175
+  },
+  {
+    "date": 20130204,
+    "ranking": 13,
+    "player_id": 10,
+    "points": 2305
+  },
+  {
+    "date": 20130304,
+    "ranking": 17,
+    "player_id": 10,
+    "points": 2050
+  },
+  {
+    "date": 20130401,
+    "ranking": 16,
+    "player_id": 10,
+    "points": 2095
+  },
+  {
+    "date": 20130506,
+    "ranking": 14,
+    "player_id": 10,
+    "points": 2225
+  },
+  {
+    "date": 20130610,
+    "ranking": 15,
+    "player_id": 10,
+    "points": 2225
+  },
+  {
+    "date": 20130708,
+    "ranking": 15,
+    "player_id": 10,
+    "points": 2225
+  },
+  {
+    "date": 20130805,
+    "ranking": 13,
+    "player_id": 10,
+    "points": 2225
+  },
+  {
+    "date": 20130909,
+    "ranking": 11,
+    "player_id": 10,
+    "points": 2555
+  },
+  {
+    "date": 20131007,
+    "ranking": 11,
+    "player_id": 10,
+    "points": 2815
+  },
+  {
+    "date": 20131104,
+    "ranking": 11,
+    "player_id": 10,
+    "points": 2860
+  },
+  {
+    "date": 20131202,
+    "ranking": 11,
+    "player_id": 10,
+    "points": 2860
+  },
+  {
+    "date": 20131230,
+    "ranking": 11,
+    "player_id": 10,
+    "points": 2860
+  },
+  {
+    "date": 20140106,
+    "ranking": 11,
+    "player_id": 10,
+    "points": 2860
+  },
+  {
+    "date": 20140203,
+    "ranking": 11,
+    "player_id": 10,
+    "points": 2690
+  },
+  {
+    "date": 20140303,
+    "ranking": 11,
+    "player_id": 10,
+    "points": 2485
+  },
+  {
+    "date": 20140407,
+    "ranking": 11,
+    "player_id": 10,
+    "points": 2580
+  },
+  {
+    "date": 20140505,
+    "ranking": 9,
+    "player_id": 10,
+    "points": 2580
+  },
+  {
+    "date": 20140609,
+    "ranking": 9,
+    "player_id": 10,
+    "points": 3245
+  },
+  {
+    "date": 20140707,
+    "ranking": 6,
+    "player_id": 10,
+    "points": 3920
+  },
+  {
+    "date": 20140804,
+    "ranking": 6,
+    "player_id": 10,
+    "points": 4375
+  },
+  {
+    "date": 20140908,
+    "ranking": 7,
+    "player_id": 10,
+    "points": 4225
+  },
+  {
+    "date": 20141006,
+    "ranking": 8,
+    "player_id": 10,
+    "points": 3965
+  },
+  {
+    "date": 20141103,
+    "ranking": 8,
+    "player_id": 10,
+    "points": 4440
+  },
+  {
+    "date": 20141201,
+    "ranking": 8,
+    "player_id": 10,
+    "points": 4440
+  },
+  {
+    "date": 20150105,
+    "ranking": 8,
+    "player_id": 10,
+    "points": 4440
+  },
+  {
+    "date": 20150202,
+    "ranking": 6,
+    "player_id": 10,
+    "points": 4845
+  },
+  {
+    "date": 20150302,
+    "ranking": 6,
+    "player_id": 10,
+    "points": 4980
+  },
+  {
+    "date": 20150406,
+    "ranking": 6,
+    "player_id": 10,
+    "points": 5070
+  },
+  {
+    "date": 20150504,
+    "ranking": 6,
+    "player_id": 10,
+    "points": 5070
+  },
+  {
+    "date": 20150608,
+    "ranking": 8,
+    "player_id": 10,
+    "points": 4440
+  },
+  {
+    "date": 20150713,
+    "ranking": 8,
+    "player_id": 10,
+    "points": 3810
+  },
+  {
+    "date": 20150803,
+    "ranking": 10,
+    "player_id": 10,
+    "points": 3400
+  },
+  {
+    "date": 20150914,
+    "ranking": 9,
+    "player_id": 10,
+    "points": 2790
+  },
+  {
+    "date": 20151005,
+    "ranking": 9,
+    "player_id": 10,
+    "points": 2740
+  },
+  {
+    "date": 20151102,
+    "ranking": 14,
+    "player_id": 10,
+    "points": 2170
+  },
+  {
+    "date": 20151207,
+    "ranking": 14,
+    "player_id": 10,
+    "points": 2170
+  },
+  {
+    "date": 20160104,
+    "ranking": 14,
+    "player_id": 10,
+    "points": 2170
+  },
+  {
+    "date": 20160201,
+    "ranking": 11,
+    "player_id": 10,
+    "points": 2630
+  },
+  {
+    "date": 20160307,
+    "ranking": 14,
+    "player_id": 10,
+    "points": 2410
+  },
+  {
+    "date": 20160404,
+    "ranking": 12,
+    "player_id": 10,
+    "points": 2740
+  },
+  {
+    "date": 20160502,
+    "ranking": 10,
+    "player_id": 10,
+    "points": 2740
+  },
+  {
+    "date": 20160606,
+    "ranking": 9,
+    "player_id": 10,
+    "points": 2965
+  },
+  {
+    "date": 20160711,
+    "ranking": 7,
+    "player_id": 10,
+    "points": 4285
+  },
+  {
+    "date": 20160801,
+    "ranking": 7,
+    "player_id": 10,
+    "points": 4465
+  },
+  {
+    "date": 20160912,
+    "ranking": 6,
+    "player_id": 10,
+    "points": 4760
+  },
+  {
+    "date": 20161003,
+    "ranking": 6,
+    "player_id": 10,
+    "points": 4510
+  },
+  {
+    "date": 20161107,
+    "ranking": 4,
+    "player_id": 10,
+    "points": 5050
+  },
+  {
+    "date": 20161205,
+    "ranking": 3,
+    "player_id": 10,
+    "points": 5450
+  },
+  {
+    "date": 20170102,
+    "ranking": 3,
+    "player_id": 10,
+    "points": 5450
+  },
+  {
+    "date": 20170206,
+    "ranking": 4,
+    "player_id": 10,
+    "points": 4930
+  },
+  {
+    "date": 20170306,
+    "ranking": 4,
+    "player_id": 10,
+    "points": 5080
+  },
+  {
+    "date": 20170403,
+    "ranking": 6,
+    "player_id": 10,
+    "points": 4345
+  },
+  {
+    "date": 20170501,
+    "ranking": 6,
+    "player_id": 10,
+    "points": 4165
+  },
+  {
+    "date": 20170612,
+    "ranking": 6,
+    "player_id": 10,
+    "points": 4450
+  },
+  {
+    "date": 20170703,
+    "ranking": 7,
+    "player_id": 10,
+    "points": 4150
+  },
+  {
+    "date": 20170807,
+    "ranking": 10,
+    "player_id": 10,
+    "points": 3220
+  },
+  {
+    "date": 20170911,
+    "ranking": 11,
+    "player_id": 10,
+    "points": 2825
+  },
+  {
+    "date": 20171002,
+    "ranking": 12,
+    "player_id": 10,
+    "points": 2825
+  },
+  {
+    "date": 20171106,
+    "ranking": 24,
+    "player_id": 10,
+    "points": 1795
+  },
+  {
+    "date": 20171204,
+    "ranking": 24,
+    "player_id": 10,
+    "points": 1795
+  }
+]
