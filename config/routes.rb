@@ -1,5 +1,9 @@
 Rails.application.routes.draw do
 
+  get 'charts/line_chart'
+
+  get 'charts/bar_chart'
+
   get 'error/not_found'
 
   root 'static_pages#home'
