@@ -15,14 +15,6 @@ class RankingsControllerTest < ActionDispatch::IntegrationTest
     assert_response :success
   end
 
-  test "should create ranking" do
-    assert_difference('Ranking.count') do
-      post rankings_url, params: { ranking: { month: @ranking.month, player_id: @ranking.player_id, points: @ranking.points, ranking: @ranking.ranking, year: @ranking.year } }
-    end
-
-    assert_redirected_to ranking_url(Ranking.last)
-  end
-
   test "should show ranking" do
     get ranking_url(@ranking)
     assert_response :success
@@ -31,11 +23,6 @@ class RankingsControllerTest < ActionDispatch::IntegrationTest
   test "should get edit" do
     get edit_ranking_url(@ranking)
     assert_response :success
-  end
-
-  test "should update ranking" do
-    patch ranking_url(@ranking), params: { ranking: { month: @ranking.month, player_id: @ranking.player_id, points: @ranking.points, ranking: @ranking.ranking, year: @ranking.year } }
-    assert_redirected_to ranking_url(@ranking)
   end
 
   test "should destroy ranking" do

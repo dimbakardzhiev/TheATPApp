@@ -1,5 +1,7 @@
 Rails.application.routes.draw do
 
+  get 'users/new'
+
   get 'charts/line_chart'
 
   get 'charts/bar_chart'
