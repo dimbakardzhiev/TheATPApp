@@ -16,11 +16,15 @@ Rails.application.routes.draw do
 
   get 'rankings/index'
 
+  get  '/signup',  to: 'users#new'
+  post '/signup',  to: 'users#create'
+
   get '/about', to: 'static_pages#about'
   get '/home', to: 'static_pages#home' 
   
   resources :rankings
   resources :players
+  resources :users
 
   match '*a', :to => 'error#not_found', via: :get
   # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
