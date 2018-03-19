@@ -1,2 +1,97 @@
 <% provide(:title, "Line Chart") %>
 <center>
+
+	<% if @boolean == false %>
+
+	<%= line_chart @players.map { |player|
+		{
+			:name => player.last_name,
+			:data => player.rankings.where('year =' + @line_chart_year).pluck("month, ranking")
+		}
+	},
+	id: 'line_chart',
+		width: "1000px",
+		height: "500px", 
+		title: @first_player_name + " vs. " + @second_player_name + " in " + @line_chart_year,
+		  colors: ['#7cb5ec', '#f7a35c', '#90ee7e', '#7798BF', '#aaeeee', '#ff0066',
+	      '#eeaaee', '#55BF3B', '#DF5353', '#7798BF', '#993300', '#666999', '#003300', '#0000cc', '#66ffcc'],
+		  library: {
+		  	yAxis: {
+		  		reversed: true,
+		  		title: {
+		  			text: "Ranking"
+		  		},
+	            labels: {
+	               format: '{value}'
+	           }
+	       },
+	       xAxis: {
+	       		title: {
+	       			text: "Month"
+	       		}
+	       },
+	       plotOptions: {
+	       		column: {
+	       			colorByPoint: true
+	       		},
+	       		series: {
+	       			borderWidth: 0
+	       		}
+	       },
+		    tooltip: {
+		      pointFormat: 'Ranking that month: <b>{point.y}</b>'
+		    },
+		    series: [{
+	    		colorByPoint: true,
+	    		}]
+	  	}
+	%>
+
+	<% else %>
+
+	<%= line_chart @player.rankings.where('year =' + @line_chart_year).pluck("month, ranking"),
+		id: 'line_chart',
+		width: "1000px",
+		height: "500px", 
+		title: @first_player_name + " in " + @line_chart_year,
+		  colors: ['#7cb5ec', '#f7a35c', '#90ee7e', '#7798BF', '#aaeeee', '#ff0066',
+	      '#eeaaee', '#55BF3B', '#DF5353', '#7798BF', '#993300', '#666999', '#003300', '#0000cc', '#66ffcc'],
+		  library: {
+		  	yAxis: {
+		  		reversed: true,
+		  		title: {
+		  			text: "Ranking"
+		  		},
+	            labels: {
+	               format: '{value}'
+	           }
+	       },
+	       xAxis: {
+	       		title: {
+	       			text: "Month"
+	       		}
+	       },
+	       plotOptions: {
+	       		column: {
+	       			colorByPoint: true
+	       		},
+	       		series: {
+	       			borderWidth: 0
+	       		}
+	       },
+		    tooltip: {
+		      pointFormat: 'Ranking that month: <b>{point.y}</b>'
+		    },
+		    series: [{
+	    		colorByPoint: true,
+	    		}]
+	  	}
+	%>
+
+	<% end %>
+
+<div class="button">
+  <a href="/linecharts" class="btn btn-warning" role="button">Select Other Players</a>
+</div>
+
+</center>
