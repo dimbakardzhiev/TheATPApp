@@ -1,0 +1,17 @@
+<% provide(:title, "Line Charts") %>
+<center>
+	<h1>Line Charts</h1>
+	<h2>Compare two tennis players' ranking over one year</h2>
+	<%= form_tag("/charts/line_chart", method: "get") do %>
+	<div class="form-style-6">
+		  <%= label_tag(:player, "Select first player") %>
+		  <%= collection_select(:first_player, :player_id, Player.all, :id, :last_name, :prompt => true) %>
+		  <%= label_tag(:player, "Select second player:") %>
+		  <%= collection_select(:second_player, :player_id, Player.all, :id, :last_name, :prompt => true) %>
+		  <%= label_tag(:year, "Select year:") %>
+		  <%= select_tag(:line_chart_year, options_for_select({"2017" => "2017", "2016" => "2016", "2015" => "2015", "2014" => "2014",
+		    "2013" => "2013"}), :prompt => "Select year") %>
+		  <%= submit_tag("Display Chart") %>
+	<% end %>
+	</div>
+</center>

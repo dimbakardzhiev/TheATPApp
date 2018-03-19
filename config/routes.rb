@@ -1,22 +1,15 @@
 Rails.application.routes.draw do
 
   get 'sessions/new'
-
   get 'users/new'
-
   get 'charts/line_chart'
-
   get 'charts/bar_chart'
-
   get 'error/not_found'
-
   root 'static_pages#home'
-
   get 'static_pages/home'
-
   get 'static_pages/about'
-
   get 'rankings/index'
+  get '/linecharts', to: 'charts#form_line_chart'
 
   get  '/signup',  to: 'users#new'
   post '/signup',  to: 'users#create'
