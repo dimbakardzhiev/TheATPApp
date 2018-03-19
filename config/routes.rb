@@ -10,6 +10,7 @@ Rails.application.routes.draw do
   get 'static_pages/about'
   get 'rankings/index'
   get '/linecharts', to: 'charts#form_line_chart'
+  get '/barcharts', to: 'charts#form_bar_chart'
 
   get  '/signup',  to: 'users#new'
   post '/signup',  to: 'users#create'

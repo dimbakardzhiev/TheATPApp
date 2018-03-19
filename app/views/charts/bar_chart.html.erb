@@ -1,0 +1,46 @@
+<% provide(:title, "Bar Chart") %>
+<center>
+	<%= bar_chart Ranking.includes(:player).where('year =' + @bar_chart_year).pluck("players.last_name, points"),
+
+	id: 'bar_chart',
+		width: "1000px",
+		height: "500px", 
+		title: "Ranking points in the end of " + @bar_chart_year,
+    library: {
+    xAxis: {
+        title: {
+            text: "Player"
+        }
+    },
+    yAxis: {
+        min: 0,
+        title: {
+            text: 'Points'
+        },
+        labels: {
+            overflow: 'justify'
+        }
+    },
+    tooltip: {
+        pointFormat: 'Points: <b>{point.y}</b>'
+    },
+
+    plotOptions: {
+        bar: {
+          colorByPoint: true,
+          colors: ['#050f91']
+        },
+        series: {
+        	borderWidth: 0,
+        	dataLabels: {
+        		enabled: true
+        	}
+        }
+    }
+    }
+	%>
+	<div class="button">
+	  <a href="/barcharts" class="btn btn-warning" role="button">Select A Different Year</a>
+	</div>
+
+</center>

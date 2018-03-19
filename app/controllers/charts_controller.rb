@@ -1,4 +1,5 @@
 class ChartsController < ApplicationController
+	rescue_from ActiveRecord::RecordNotFound, with: :redirect_if_not_found
 	
 
 	def line_chart
@@ -17,6 +18,15 @@ class ChartsController < ApplicationController
 
 		if @first_player == @second_player
 			@boolean = true
+		end
+	end
+
+	def bar_chart
+		@players = Player.all
+		@rankings = Ranking.all
+		@bar_chart_year = params[:bar_chart_year]
+		if @bar_chart_year = ""
+			redirect_to("/barcharts")
 		end
 	end
 
