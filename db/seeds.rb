@@ -10,7 +10,10 @@ User.create!(name:  "Admin",
              email: "admin@theatpapp.com",
              password:              "Password",
              password_confirmation: "Password",
-             admin: true)
+             admin: true,
+             activated: true,
+             activated_at: Time.zone.now)
+             
 
 5.times do |n|
   name  = Faker::Name.name
@@ -19,5 +22,7 @@ User.create!(name:  "Admin",
   User.create!(name:  name,
                email: email,
                password:              password,
-               password_confirmation: password)
+               password_confirmation: password,
+               activated: true,
+               activated_at: Time.zone.now)
 end

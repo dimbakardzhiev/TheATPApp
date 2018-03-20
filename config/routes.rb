@@ -23,6 +23,7 @@ Rails.application.routes.draw do
   resources :rankings
   resources :players
   resources :users
+  resources :account_activations, only: [:edit]
 
   match '*a', :to => 'error#not_found', via: :get
   # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
