@@ -67,7 +67,7 @@ Rails.application.configure do
   # config.active_job.queue_name_prefix = "AWAD_atp_#{Rails.env}"
   config.action_mailer.raise_delivery_errors = true
   config.action_mailer.delivery_method = :smtp
-  host = 'http://awad-atp.herokuapp.com'
+  host = 'awad-atp.herokuapp.com'
   config.action_mailer.default_url_options = { host: host }
   ActionMailer::Base.smtp_settings = {
     :address        => 'smtp.sendgrid.net',
