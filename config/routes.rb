@@ -1,6 +1,5 @@
 Rails.application.routes.draw do
 
-  get 'twitter/index'
   get 'sessions/new'
   get 'users/new'
   get 'charts/line_chart'
@@ -10,18 +9,19 @@ Rails.application.routes.draw do
   get 'static_pages/home'
   get 'static_pages/about'
   get 'rankings/index'
-  post '/players/search', to: 'players#search'  
-
-  get  '/linecharts', to: 'charts#form_line_chart'
-  get  '/barcharts',  to: 'charts#form_bar_chart'
-  get  '/signup',  to: 'users#new'
-  post '/signup',  to: 'users#create'
-  get  '/about',   to: 'static_pages#about'
-  get  '/home',    to: 'static_pages#home'
-  get  '/login',   to: 'sessions#new'
-  get  'twitter',  to: 'twitter#index'
-  post '/login',   to: 'sessions#create'
-  delete '/logout',  to: 'sessions#destroy' 
+  
+  post    '/players/search', to: 'players#search'  
+  get     '/twitter',        to: 'twitter#index'
+  get     '/linecharts',     to: 'charts#form_line_chart'
+  get     '/barcharts',      to: 'charts#form_bar_chart'
+  get     '/signup',         to: 'users#new'
+  post    '/signup',         to: 'users#create'
+  get     '/about',          to: 'static_pages#about'
+  get     '/home',           to: 'static_pages#home'
+  get     '/login',          to: 'sessions#new'
+  get     'twitter',         to: 'twitter#index'
+  post    '/login',          to: 'sessions#create'
+  delete  '/logout',         to: 'sessions#destroy' 
   
   resources :rankings
   resources :players
