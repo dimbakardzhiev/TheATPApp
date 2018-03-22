@@ -10,7 +10,7 @@ Rails.application.routes.draw do
   get 'static_pages/home'
   get 'static_pages/about'
   get 'rankings/index'
-  
+  post '/players/search', to: 'players#search'  
 
   get  '/linecharts', to: 'charts#form_line_chart'
   get  '/barcharts',  to: 'charts#form_bar_chart'

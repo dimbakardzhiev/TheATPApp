@@ -1,0 +1,9 @@
+<%if @players.empty? %>
+	<%redirect_to 'error#not_found' %>
+<% else %>
+
+	<% @players.each do |player| %>
+		<%= player.first_name %><br>
+		<%= player.last_name %>
+	<% end %>
+<% end %>

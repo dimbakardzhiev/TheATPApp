@@ -21,6 +21,12 @@ class PlayersController < ApplicationController
   def edit
   end
 
+  def search
+    if params[:last_name]
+      @players = Player.where("lower(last_name) LIKE ?", "%#{params[:last_name].downcase}%")
+    end
+  end
+
   # POST /players
   # POST /players.json
   def create
