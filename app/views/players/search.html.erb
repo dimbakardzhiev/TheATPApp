@@ -1,5 +1,5 @@
-<%if @players.empty? %>
-	<%redirect_to 'error#not_found' %>
+<%if params[:last_name] == "" %>
+	<%= flash.now[:alert] = "Player not found" %>
 <% else %>
 
 	<% @players.each do |player| %>
