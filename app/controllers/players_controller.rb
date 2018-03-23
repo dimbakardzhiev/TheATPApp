@@ -3,9 +3,9 @@ class PlayersController < ApplicationController
 
   # GET /players
   # GET /players.json
-  def index
-    @players = Player.all
-  end
+  #def index
+   # @players = Player.all
+  #end
 
   # GET /players/1
   # GET /players/1.json
@@ -21,10 +21,16 @@ class PlayersController < ApplicationController
   def edit
   end
 
-  def search
-    if params[:last_name]
-      @players = Player.where("lower(last_name) LIKE ?", "%#{params[:last_name].downcase}%")
-    end
+  def search 
+    if params[:last_name].to_s.empty?
+          flash.now[:notice] = "Please search for player's last name"
+          @players = []
+    else 
+        @players = Player.where("lower(last_name) LIKE ?", "%#{params[:last_name].downcase}%") 
+        if @players.empty?
+          flash.now[:notice] = "player not found"
+        end  
+    end 
   end
 
   # POST /players
