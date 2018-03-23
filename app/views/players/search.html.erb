@@ -1,11 +1,4 @@
-<% if params[:last_name] == ""%>
-	<%= flash.now[:alert] = "Please search for player's last name" %>
-
-<% elsif @players %>
-	<% @players.each do |player| %>
-		<%= player.first_name %><br>
-		<%= player.last_name %>
-	<% end %>
-<% else %>
-	<%= flash.now[:alert] = "Player not found" %>	
+<% @players.each do |player| %>
+ 	<%= player.first_name %><br>
+ 	<%= player.last_name %>
 <% end %>
