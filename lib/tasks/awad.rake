@@ -10,7 +10,14 @@ namespace :awad do
   		first_name: row[0],
   		last_name: row[1],
   		dob: row[2],
-  		nationality: row[3]
+  		nationality: row[3],
+      residence: row[4],
+      turned_pro: row[5],
+      weight: row[6],
+      height: row[7],
+      hand: row[8],
+      backhand: row[9],
+      coach: row[10]
   		)
   	end
 

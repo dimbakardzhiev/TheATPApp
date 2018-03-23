@@ -1,4 +1,15 @@
 <% @players.each do |player| %>
- 	<%= player.first_name %><br>
- 	<%= player.last_name %>
+	<ul>
+ 		<li><p> Name: <%= player.first_name %></p></li>
+ 		<li><p> Surname: <%= player.last_name %> </p></li>
+ 		<li><p> Date of birth: <%= player.dob %> </p></li>
+ 		<li><p> Nationality: <%= player.nationality %></p></li>
+ 		<li><p> Residence: <%= player.residence %></p></li>
+ 		<li><p> Turned Pro: <%= player.turned_pro %></p></li>
+ 		<li><p> Weight: <%= player.weight %></p></li>
+ 		<li><p> Height: <%= player.height %></p></li>
+ 		<li><p> Hand: <%= player.hand %></p></li>
+ 		<li><p> Backhand: <%= player.backhand %></p></li>
+ 		<li><p> Coach: <%= player.coach %></p></li>
+ 	</ul>	
 <% end %>

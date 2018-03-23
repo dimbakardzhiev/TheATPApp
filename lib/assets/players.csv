@@ -1,11 +1,11 @@
-first_name,last_name,dob,nationality
-Grigor,Dimitrov,16/05/1991,Bulgarian
-Alexander,Zverev,20/04/1997,German
-Dominic,Thiem,03/09/1993,Austrian
-David,Goffin,07/12/1990,Belgian
-Jack,Sock,24/09/1992,American
-Lucas,Pouille,23/02/1994,French
-Pablo,Carreno Busta,12/07/1991,Spanish
-Diego Sebastian,Schwartzman,16/08/1992,Argentine
-Nick,Kyrgios,27/04/1995,Australian
-Milos,Raonic,27/12/1990,Canadian
+first_name,last_name,dob,nationality,residence,turned_pro,weight,height,hand,backhand,coach
+Grigor,Dimitrov,16/05/1991,Bulgarian,Monte Carlo,2008,80kg,191cm,Right,One-handed,Dnaiel Vallverdu
+Alexander,Zverev,20/04/1997,German,Monte Carlo,2013,86kg,198cm,Right,Two-handed,Alexander Zverev Sr
+Dominic,Thiem,03/09/1993,Austrian,Lichtenworth,2011,82kg,185cm,Right,One-handed,Gunter Bresnik
+David,Goffin,07/12/1990,Belgian,Monte Carlo,2009,68kg,180cm,Right,Two-handed,Thierry Van Cleemput
+Jack,Sock,24/09/1992,American,Kansas City,2011,84kg,191cm,Right,Two-handed,Jay Berger
+Lucas,Pouille,23/02/1994,French,Dubai,2012,81kg,185cm,Right,Two-handed,Emmanuel Planque
+Pablo,Carreno Busta,12/07/1991,Spanish,Barcelona,2009,78kg,188cm,Right,Two-handed,Samuel Lopez
+Diego Sebastian,Schwartzman,16/08/1992,Argentine,Buenos Aires,2010,64kg,170cm,Right,Two-handed,Juan Ignacio Chela
+Nick,Kyrgios,27/04/1995,Australian,Canberra,2013,85kg,193cm,Right,Two-handed,Sebastian Gorsjean
+Milos,Raonic,27/12/1990,Canadian,Monte Carlo,2008,98kg,196cm,Right,Two-handed,Javier Piles
