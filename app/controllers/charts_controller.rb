@@ -1,6 +1,14 @@
 class ChartsController < ApplicationController
+	before_action :logged_in_user, only: [:line_chart, :bar_chart, :form_bar_chart, :form_line_chart]
 	rescue_from ActiveRecord::RecordNotFound, with: :redirect_if_not_found
 	
+	
+	def form_bar_chart
+	end
+
+	def form_line_chart
+	end
+
 	def line_chart
 		@boolean = false
 		@first_player = params[:first_player]
@@ -28,4 +36,5 @@ class ChartsController < ApplicationController
 			redirect_to("/barcharts")
 		end
 	end
+
 end
