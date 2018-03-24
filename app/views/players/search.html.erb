@@ -1,5 +1,28 @@
 <% @players.each do |player| %>
-	<ul>
+		
+		<% if player.id == 1 %>
+			<p style="float:right"> <%= image_tag("/dimitrov.png") %> </p>
+		<% elsif player.id == 2 %>
+			<p style="float:right"> <%= image_tag("/zverev.png") %> </p>
+		<% elsif player.id == 3 %>
+			<p style="float:right"> <%= image_tag("/thiem.png") %> </p>
+		<% elsif player.id == 4 %>
+			<p style="float:right"> <%= image_tag("/goffin.png") %> </p>
+		<% elsif player.id == 5 %>
+			<p style="float:right"> <%= image_tag("/sock.png") %> </p>
+		<% elsif player.id == 6 %>
+			<p style="float:right"> <%= image_tag("/pouille.png") %> </p>
+		<% elsif player.id == 7 %>
+			<p style="float:right"> <%= image_tag("/carreno-busta.png") %> </p>
+		<% elsif player.id == 8 %>
+			<p style="float:right"> <%= image_tag("/schwartzman.png") %> </p>
+		<% elsif player.id == 9 %>
+			<p style="float:right"> <%= image_tag("/kyrgios.png") %> </p>
+		<% else player.id == 10 %>
+			<p style="float:right"> <%= image_tag("/raonic.pngl") %> </p>	
+		<% end %>
+
+	<ul style="list-style-type:none"l>
  		<li><p> Name: <%= player.first_name %></p></li>
  		<li><p> Surname: <%= player.last_name %> </p></li>
  		<li><p> Date of birth: <%= player.dob %> </p></li>
@@ -11,5 +34,9 @@
  		<li><p> Hand: <%= player.hand %></p></li>
  		<li><p> Backhand: <%= player.backhand %></p></li>
  		<li><p> Coach: <%= player.coach %></p></li>
- 	</ul>	
+ 	</ul>
 <% end %>
+
+<div class="button">
+	  <a href="/players" class="btn btn-warning" role="button">Search for another player</a>
+</div>
