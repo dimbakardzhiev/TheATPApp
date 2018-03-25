@@ -1,5 +1,8 @@
 <% @players.each do |player| %>
-		
+
+<table class="table table-hover">
+	<tbody>
+		<tr>
 		<% if player.id == 1 %>
 			<p style="float:right"> <%= image_tag("/dimitrov.png") %> </p>
 		<% elsif player.id == 2 %>
@@ -19,8 +22,13 @@
 		<% elsif player.id == 9 %>
 			<p style="float:right"> <%= image_tag("/kyrgios.png") %> </p>
 		<% else player.id == 10 %>
-			<p style="float:right"> <%= image_tag("/raonic.pngl") %> </p>	
+			<p style="float:right"> <%= image_tag("/raonic.png") %> </p>	
 		<% end %>
+	</tr>
+
+	</tbody>
+
+
 
 	<ul style="list-style-type:none"l>
  		<li><p> Name: <%= player.first_name %></p></li>
@@ -35,8 +43,10 @@
  		<li><p> Backhand: <%= player.backhand %></p></li>
  		<li><p> Coach: <%= player.coach %></p></li>
  	</ul>
+ 
 <% end %>
 
+</table>
 <div class="button">
 	  <a href="/players" class="btn btn-warning" role="button">Search for another player</a>
 </div>

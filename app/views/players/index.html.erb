@@ -3,5 +3,5 @@
 <h4>Search players by last name </h4>
 <%= form_tag("/players/search", :method => "post") do %>
   <%= text_field_tag :last_name, params[:last_name] %>
-  <%= submit_tag "Search", :last_name => nil %>
+  <%= submit_tag "Search", :name => nil %>
 <% end %>

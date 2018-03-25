@@ -27,7 +27,7 @@ class PlayersController < ApplicationController
           flash.now[:notice] = "Please search for player's last name"
           @players = []
     else 
-        @players = Player.where("lower(last_name) LIKE ?", "%#{params[:last_name].downcase.strip}%") 
+        @players = Player.where("lower(last_name) LIKE ?", "%#{params[:last_name].downcase.gsub(/\s+/, "")}%") 
         if @players.empty?
           flash.now[:notice] = "player not found"
         end  
