@@ -24,9 +24,8 @@
 		<% else player.id == 10 %>
 			<p style="float:right"> <%= image_tag("/raonic.png") %> </p>	
 		<% end %>
-	</tr>
 
-	</tbody>
+	
 
 
 
@@ -43,10 +42,15 @@
  		<li><p> Backhand: <%= player.backhand %></p></li>
  		<li><p> Coach: <%= player.coach %></p></li>
  	</ul>
- 
+ 	
+ 	</tr>
+
 <% end %>
 
+	<div class="button">
+		  <a href="/players" class="btn btn-warning" role="button">Search for another player</a>
+	</div>
+
+	</tbody>
 </table>
-<div class="button">
-	  <a href="/players" class="btn btn-warning" role="button">Search for another player</a>
-</div>
+
