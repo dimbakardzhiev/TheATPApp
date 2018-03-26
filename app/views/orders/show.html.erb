@@ -1,9 +1,9 @@
 <p id="notice"><%= notice %></p>
 
-<p>
+
+
   <strong>Name:</strong>
   <%= @order.name %>
-</p>
 
 <p>
   <strong>Address:</strong>
@@ -20,9 +20,14 @@
   <%= @order.pay_type %>
 </p>
 
-<p>
-	<strong>Items:</strong>
-	<% product_ids =[] %>
+<table class="table">
+
+<thead>
+  <tr>
+    <strong>Items:</strong>
+	</tr>
+  
+  <% product_ids =[] %>
   <% names =[] %>
   
   <% @order.line_items.each do |item|%>
@@ -31,12 +36,14 @@
   <% product_ids.each do |id| %>
     <% names.push(Product.find(id).name) %>
   <% end %> 
-  <%= names %>
+    <%= names.join(", ") %><br>
   <% @order.line_items.each do |i| %>
-      <%= i.quantity %>
+      <p> <b> Quantity: </b><%= i.quantity %> </p>
   <% end %>
-</p>
+
 
 
 <%= link_to 'Edit', edit_order_path(@order) %> |
 <%= link_to 'Back', orders_path %>
+
+</table>
