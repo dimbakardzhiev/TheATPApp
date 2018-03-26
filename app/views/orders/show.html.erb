@@ -22,7 +22,19 @@
 
 <p>
 	<strong>Items:</strong>
-	<%= @order.line_items %>
+	<% product_ids =[] %>
+  <% names =[] %>
+  
+  <% @order.line_items.each do |item|%>
+    <% product_ids.push(item.product_id) %>
+  <% end %>
+  <% product_ids.each do |id| %>
+    <% names.push(Product.find(id).name) %>
+  <% end %> 
+  <%= names %>
+  <% @order.line_items.each do |i| %>
+      <%= i.quantity %>
+  <% end %>
 </p>
 
 
