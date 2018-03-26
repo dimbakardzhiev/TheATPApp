@@ -13,13 +13,6 @@
 
 /* miscellaneous */
 
-.debug_dump {
-  clear: both;
-  float: left;
-  width: 100%;
-  margin-top: 45px;
-  @include box_sizing;
-}
 
 body {
   padding-top: 60px;
@@ -72,7 +65,6 @@ p {
   margin-right: 10px;
   font-size: 2em;
   color: #c5cfe0;
-  text-transform: uppercase;
   letter-spacing: -1px;
   padding-top: 15px;
   font-weight: bold;
