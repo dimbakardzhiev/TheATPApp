@@ -1,8 +1,7 @@
 Rails.application.routes.draw do
 
   
-  resources :line_items
-  resources :carts
+  
   get 'sessions/new'
   get 'users/new'
   get 'charts/line_chart'
@@ -31,8 +30,14 @@ Rails.application.routes.draw do
   resources :players
   resources :users
   resources :account_activations, only: [:edit]
-  resources :products
-
+  
+  resources :products do
+    get :who_bought, on: :member
+  end
+  
+  resources :orders
+  resources :line_items
+  resources :carts
 
   match '*a', :to => 'error#not_found', via: :get
   # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
