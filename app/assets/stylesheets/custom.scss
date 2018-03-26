@@ -21,6 +21,10 @@ body {
   background-size: cover;  
 }
 
+body.homepage {
+  background: url("/tennis-background.jpg");
+}
+
 section {
   overflow: auto;
 }
