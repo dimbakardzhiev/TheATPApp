@@ -1,7 +1,9 @@
-<p id="notice"><%= notice %></p>
+<h1>Search Players</h1>
 
-<h4>Search players by last name </h4>
-<%= form_tag("/players/search", :method => "post") do %>
-  <%= text_field_tag :last_name, params[:last_name] %>
-  <%= submit_tag "Search", :name => nil %>
-<% end %>
+<div class="col-md-8 col-md-offset-2">
+	<h3>Search players by last name </h3>
+	<%= form_tag("/players/search", :method => "post") do %>
+	  <%= text_field_tag :last_name, params[:last_name] %>
+	  <%= submit_tag "Search", class: "btn btn-danger", :name => nil %>
+	<% end %>
+</div>
