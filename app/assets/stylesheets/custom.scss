@@ -16,13 +16,19 @@
 
 body {
   padding-top: 60px;
-  background: url("background.jpg");
+  background: url("/background.jpg");
   background-repeat: no-repeat;
   background-size: cover;  
 }
 
 body.homepage {
   background: url("/tennis-background.jpg");
+}
+
+.boxed {
+  border: 1px solid green ;
+  background-color: white;
+  width: 50%;
 }
 
 section {
@@ -52,7 +58,7 @@ h1 {
   margin-bottom: 30px;
   text-align: center;
   font-weight: normal;
-  color: $gray-light;
+  color: #9b4a11;
 }
 
 
@@ -66,9 +72,9 @@ p {
 
 #logo {
   float: left;
-  margin-right: 10px;
+  margin-left: 20 px;
   font-size: 2em;
-  color: #c5cfe0;
+  color: #9b4a11;
   letter-spacing: -1px;
   padding-top: 15px;
   font-weight: bold;
