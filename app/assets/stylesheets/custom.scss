@@ -61,6 +61,12 @@ h1 {
   color: #9b4a11;
 }
 
+h2 {
+  font-size: 1.5em;
+  font-family: Trebuchet MS;
+  padding-left:2px;
+}
+
 
 p {
   font-size: 5em;
@@ -239,4 +245,20 @@ input {
     padding: 10px 0;
     border-bottom: 1px solid $gray-lighter;
   }
+}
+
+.products_text {
+  color: #4B0082;
+  margin-top: -40px;
+}
+
+.add_to_cart_button {
+  width: 25%;
+  padding: 15px;
+  margin: auto;
+}
+
+hr {
+    margin: 20px 0;
+    border: 1px solid #9b4a11;
 }

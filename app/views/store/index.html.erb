@@ -1,18 +1,16 @@
-<h1>Your Pragmatic Catalog</h1>
-
+<h1>Tennis Store</h1>
+<%= will_paginate %>
 <% cache @products do %>
 	<% @products.each do |product| %>
 		<% cache product do %>
-			<div class="entry">
-				<h3><%= product.name %></h3>
-				<%= sanitize(product.description) %>
-				<div class="price_line">
-					<span class="price"><%= quid(product.price) %></span>
-					<%= button_to 'Add to Cart', line_items_path(product_id: product) %>
+				<div class="products_text">
+					<hr />
+					<h4><%= product.name %></h4>
+					<%= sanitize(product.description) %><br><br>
+					<h4><%= quid(product.price) %></h4>
+					<div class="add_to_cart_button"><%= button_to 'Add to Cart', line_items_path(product_id: product), class: "btn btn-danger" %><br>
+					</div>
 				</div>
-			</div>
 		<% end %>
 	<% end %>
 <% end %>
-
-<%= will_paginate %>
