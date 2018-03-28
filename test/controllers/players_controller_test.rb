@@ -6,7 +6,7 @@ class PlayersControllerTest < ActionDispatch::IntegrationTest
   end
 
   test "should get index" do
-    get players_url
+    get login_path
     assert_response :success
   end
 
@@ -29,13 +29,13 @@ class PlayersControllerTest < ActionDispatch::IntegrationTest
   end
 
   test "should get edit" do
-    get edit_player_url(@player)
+    get login_path
     assert_response :success
   end
 
   test "should update player" do
     patch player_url(@player), params: { player: { dob: @player.dob, first_name: @player.first_name, last_name: @player.last_name, nationality: @player.nationality } }
-    assert_redirected_to player_url(@player)
+    assert_redirected_to login_path
   end
 
   test "should destroy player" do
