@@ -2,6 +2,8 @@ class ApplicationController < ActionController::Base
   add_flash_types :success, :warning, :danger, :info
   protect_from_forgery with: :exception
   include SessionsHelper
+  include CurrentCart
+  before_action :set_cart
 
   def redirect_if_not_found
   	logger.error "Attempt to access non-existent #{request.controller_class} #{params[:id]}"
