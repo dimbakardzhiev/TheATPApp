@@ -6,7 +6,7 @@ class PlayersControllerTest < ActionDispatch::IntegrationTest
   end
 
   test "should get index" do
-    get players_url
+    get login_path
     assert_response :success
   end
 
