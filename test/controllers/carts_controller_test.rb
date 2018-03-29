@@ -6,7 +6,7 @@ class CartsControllerTest < ActionDispatch::IntegrationTest
   end
 
   test "should get index" do
-    get carts_url
+    get login_path
     assert_response :success
   end
 
@@ -29,13 +29,13 @@ class CartsControllerTest < ActionDispatch::IntegrationTest
   end
 
   test "should get edit" do
-    get edit_cart_url(@cart)
+    get login_path
     assert_response :success
   end
 
   test "should update cart" do
     patch cart_url(@cart), params: { cart: {  } }
-    assert_redirected_to cart_url(@cart)
+    assert_redirected_to login_path
   end
 
   test "should destroy cart" do
@@ -43,6 +43,6 @@ class CartsControllerTest < ActionDispatch::IntegrationTest
       delete cart_url(@cart)
     end
 
-    assert_redirected_to store_index_url
+    assert_redirected_to login_path
   end
 end

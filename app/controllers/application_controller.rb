@@ -14,16 +14,21 @@ class ApplicationController < ActionController::Base
   def logged_in_user
     unless logged_in?
       store_location
-      flash[:danger] = "Please log in."
+      flash[:danger] = "Restricted access - please log in"
       redirect_to login_url
     end
   end
 
   def admin_user
-      unless current_user.admin?
-        flash[:danger] = "Restricted Access"
-        redirect_to(root_url)
-      end 
+      if current_user.nil?
+        flash[:danger] = "Restricted access - please log in"
+        redirect_to login_url
+       else 
+        unless current_user.admin?
+          flash[:danger] = "Restricted access"
+          redirect_to root_url
+        end 
+      end
   end
 
 end
