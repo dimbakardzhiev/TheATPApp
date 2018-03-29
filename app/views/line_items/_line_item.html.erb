@@ -1,5 +1,5 @@
-<tr>
-	<td><%= line_item.quantity %>&times;</td>
-	<td><%= line_item.product.name %></td>
-	<td class="item_price"><%= quid(line_item.total_price) %></td>
+<tr class="products_text">
+	<td><h5><%= line_item.quantity %>&times;</h5></td>
+	<td><h5><%= line_item.product.name %></h5></td>
+	<td class="item_price"><h5><%= quid(line_item.total_price) %></h5></td>
 </tr>

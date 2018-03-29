@@ -1,13 +1,13 @@
 <h1>Shopping Cart</h1>
-<table>
+<center><table>
 	<%= render(@cart.line_items) %>
-	<tr>
-		<td colspan="2">Total</td>
-		<td class="total_cell"><%= quid(@cart.total_price) %></td>
+	<tr class="products_text">
+		<td colspan="2"><h4>Total</h4></td>
+		<td class="total_cell"><h4><%= quid(@cart.total_price) %></h4></td>
 	</tr>
-</table>
+</table></center>
 <div class="cart_button">
-	<%= button_to "Checkout", new_order_path, method: :get, class: "btn btn-danger" %>
+	<%= button_to "Checkout", new_order_path, method: :get, class: "btn btn-success" %>
 </div>
 <div class="cart_button">
 	<%= button_to 'Empty cart', @cart, method: :delete,
@@ -15,5 +15,5 @@
 </div>
 
 <div class="cart_button">
-	<%= button_to 'Back to store', store_index_url, method: :get, class: "btn btn-danger"  %>	
+	<%= button_to 'Back to store', store_index_url, method: :get, class: "btn btn-warning"  %>	
 </div>
