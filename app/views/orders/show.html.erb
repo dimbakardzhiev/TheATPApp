@@ -1,46 +1,51 @@
 <% provide(:title, "Order") %>
-<strong>Name:</strong>
-  <%= @order.name %>
 
-<p>
-  <strong>Address:</strong>
-  <%= @order.address %>
-</p>
+<div class="players_text">
+  <strong>Name:</strong>
+    <%= @order.name %>
 
-<p>
-  <strong>Email:</strong>
-  <%= @order.email %>
-</p>
+  <p>
+    <strong>Address:</strong>
+    <%= @order.address %>
+  </p>
 
-<p>
-  <strong>Pay type:</strong>
-  <%= @order.pay_type %>
-</p>
+  <p>
+    <strong>Email:</strong>
+    <%= @order.email %>
+  </p>
 
-<table class="table">
+  <p>
+    <strong>Pay type:</strong>
+    <%= @order.pay_type %>
+  </p>
 
-<thead>
-  <tr>
-    <strong>Items:</strong>
-	</tr>
-  
-  <% product_ids =[] %>
-  <% names =[] %>
-  
-  <% @order.line_items.each do |item|%>
-    <% product_ids.push(item.product_id) %>
-  <% end %>
-  <% product_ids.each do |id| %>
-    <% names.push(Product.find(id).name) %>
-  <% end %> 
-    <%= names.join(", ") %><br>
-  <% @order.line_items.each do |i| %>
-      <p> <b> Quantity: </b><%= i.quantity %> </p>
-  <% end %>
+      
+    <% product_ids =[] %>
+    <% names =[] %>
+    
+    <% @order.line_items.each do |item|%>
+      <% product_ids.push(item.quantity) %>
+    <% end %>
+    <% product_ids.each do |id| %>
+      <% names.push(Product.find(id).name) %>
+    <% end %> 
+    
+    <% h = Hash[names.zip product_ids] %>      
+      
+  <table class='table table-bordered'>
+    <tr style="border:solid #9b4a11">
+      <th style="border:solid #9b4a11"><b>Item:</b></th>
+      <th style="border:solid #9b4a11"><b>Quantity:</b></th>    
+      <% h.each do |key, value| %>
+        <tr style="border:solid #9b4a11">
+          <td style="border:solid #9b4a11"><%= key %></td>
+          <td><%= value%></td>   
+        </tr>
+       <%end%> 
+  </table>
 
 
+  <%= link_to 'Edit', edit_order_path(@order) %> |
+  <%= link_to 'Back', orders_path %>
 
-<%= link_to 'Edit', edit_order_path(@order) %> |
-<%= link_to 'Back', orders_path %>
-
-</table>
+</div>

@@ -244,7 +244,7 @@ input {
   li {
     overflow: auto;
     padding: 10px 0;
-    border-bottom: 1px solid $gray-lighter;
+    border-bottom: 1px solid #9b4a11;
   }
 }
 
@@ -253,11 +253,17 @@ input {
   margin-top: -40px;
 }
 
+.players_text {
+  color: #4B0082;
+  margin-top: 30px;
+}
+
 .cart_button {
   width: 25%;
   padding: 15px;
   margin: auto;
 }
+
 
 hr {
     margin: 20px 0;
