@@ -39,10 +39,10 @@ class PlayersControllerTest < ActionDispatch::IntegrationTest
   end
 
   test "should destroy player" do
-    assert_difference('Player.count', -1) do
+    assert_difference('Player.count', 0) do
       delete player_url(@player)
     end
 
-    assert_redirected_to players_url
+    assert_redirected_to login_path
   end
 end
