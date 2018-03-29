@@ -11,7 +11,7 @@ Rails.application.routes.draw do
   get 'static_pages/home'
   get 'static_pages/about'
   get 'rankings/index'
-  
+
   get     'store',           to: 'store#index', as: 'store_index'
   post    '/players/search', to: 'players#search'  
   get     '/twitter',        to: 'twitter#index'

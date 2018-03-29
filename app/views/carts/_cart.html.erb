@@ -13,3 +13,7 @@
 	<%= button_to 'Empty cart', @cart, method: :delete,
 	data: { confirm: 'Are you sure?' }, class: "btn btn-danger"  %>	
 </div>
+
+<div class="cart_button">
+	<%= button_to 'Back to store', store_index_url, method: :get, class: "btn btn-danger"  %>	
+</div>
