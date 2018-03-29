@@ -45,7 +45,7 @@ feature 'signing up' do
         expect(page).to have_content('is too short (minimum is 6 characters)')
     end
 
-    scenario "confirmation not match" do
+    scenario "confirmation not matching" do
         visit 'users/new'
         expect(page).to have_content('Sign up')
         fill_in 'Name', :with=>'Admin'

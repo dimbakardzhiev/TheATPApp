@@ -1,9 +1,9 @@
-<h1>The ATP App</h1>
+<h3>The ATP App</h3>
 
-<p>Hi <%= @user.name %>,</p>
+<p>Hello <%= @user.name %>,</p>
 
 <p>
-Welcome to The ATP App! Click on the link below to activate your account:
+Welcome to <i>The ATP App</i>! Follow the link below to activate your account:
 </p>
 
 <%= link_to "Activate", edit_account_activation_url(@user.activation_token,
