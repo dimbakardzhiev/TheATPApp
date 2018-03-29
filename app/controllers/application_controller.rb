@@ -18,4 +18,12 @@ class ApplicationController < ActionController::Base
       redirect_to login_url
     end
   end
+
+  def admin_user
+      unless current_user.admin?
+        flash[:danger] = "Restricted Access"
+        redirect_to(root_url)
+      end 
+  end
+
 end

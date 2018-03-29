@@ -1,5 +1,6 @@
 class ProductsController < ApplicationController
   before_action :set_product, only: [:show, :edit, :update, :destroy]
+  before_action :admin_user,  only: [:show, :edit, :update, :destroy, :index]
 
   # GET /products
   # GET /products.json
@@ -14,7 +15,7 @@ class ProductsController < ApplicationController
   end
 
   def index
-    @products = Product.all
+    @products = Product.order(:name).paginate(page: params[:page], :per_page => 4)
   end
 
   # GET /products/1
