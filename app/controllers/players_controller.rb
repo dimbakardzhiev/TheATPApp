@@ -24,12 +24,12 @@ class PlayersController < ApplicationController
 
   def search 
     if params[:last_name].to_s.empty?
-          flash.now[:notice] = "Please search for player's last name"
+          flash.now[:danger] = "Please search for player's last name"
           @players = []
     else 
         @players = Player.where("lower(last_name) LIKE ?", "%#{params[:last_name].downcase.gsub(/\s+/, "")}%") 
         if @players.empty?
-          flash.now[:notice] = "player not found"
+          flash.now[:danger] = "player not found"
         end  
     end 
   end

@@ -70,4 +70,13 @@ feature 'authentication' do
         expect(page).to have_content 'The ATP App'
         expect(page).to have_content 'Restricted access - please log in'
     end
+
+    scenario "password reset email not found" do
+        visit '/password_resets/new'
+        expect(page).to have_content('Forgot password')
+        fill_in 'Email', :with=>'admin@theatpapp.com'
+        click_button 'Submit'
+        expect(page).to have_content('Email address not found')
+    end
+
 end
