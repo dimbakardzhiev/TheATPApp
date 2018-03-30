@@ -14,12 +14,18 @@ Product.destroy_all
 
 User.create!(name:  "Admin",
              email: "admin@theatpapp.com",
-             password:              "Password",
-             password_confirmation: "Password",
+             password:              "adminpassword",
+             password_confirmation: "adminpassword",
              admin: true,
              activated: true,
              activated_at: Time.zone.now)
-             
+
+User.create!(name:  "User",
+             email: "user@gmail.com",
+             password:              "userpassword",
+             password_confirmation: "userpassword",
+             activated: true,
+             activated_at: Time.zone.now)
 
 5.times do |n|
   name  = Faker::Name.name
